@@ -9,6 +9,7 @@
   },
   "scripts": {
     "__base": "json-server svc/__base/db.json -p 3010",
+    "svc-public": "babel-node svc/public/server -- -p 3010",
     "svc-employees-script": "node ./svc/employees/server -p 3011",
     "svc-employees": "json-server svc/employees/db.json -p 3011 --static ./svc/employees",
     "svc-projects": "json-server svc/projects/db.json -p 3012 --static ./svc/projects",
@@ -18,6 +19,9 @@
     "all": "node run-all"
   },
   "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
     "axios": "^0.19.2",
     "chalk": "^4.0.0",
     "express": "^4.17.1",

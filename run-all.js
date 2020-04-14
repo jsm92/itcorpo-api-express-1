@@ -8,8 +8,13 @@ const stringifyAndTrim = (data) => (data + '').trim()
 
 const processes = [
   {
-    name: '__base',
-    script: 'run __base',
+  //   name: '__base',
+  //   script: 'run __base',
+  //   stdoutFn: chalk.red,
+  //   stderrFn: chalk.bgRed
+  // }, {
+    name: 'public',
+    script: 'run svc-public',
     stdoutFn: chalk.red,
     stderrFn: chalk.bgRed
   }, {
@@ -27,16 +32,16 @@ const processes = [
     script: 'run svc-benefits',
     stdoutFn: chalk.cyan,
     stderrFn: chalk.bgCyan
-  }, {
-    name: 'geo',
-    script: 'run svc-geo',
-    stdoutFn: chalk.magenta,
-    stderrFn: chalk.bgMagenta
-  }, {
-    name: 'skills',
-    script: 'run svc-skills',
-    stdoutFn: chalk.gray,
-    stderrFn: chalk.bgGray
+  // }, {
+  //   name: 'geo',
+  //   script: 'run svc-geo',
+  //   stdoutFn: chalk.magenta,
+  //   stderrFn: chalk.bgMagenta
+  // }, {
+  //   name: 'skills',
+  //   script: 'run svc-skills',
+  //   stdoutFn: chalk.gray,
+  //   stderrFn: chalk.bgGray
   }
 ]
 
