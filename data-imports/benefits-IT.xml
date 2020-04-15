@@ -1,0 +1,140 @@
+<benefit>
+  <id>3384c84aa4b7426c</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Sarita Silvestri</name>
+  <email>Sarita_Silvestri90@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>e1fbc1e54dfa485b</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Vitalba Mazza</name>
+  <email>Vitalba_Mazza43@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>7562188cd072421b</id>
+  <city>Roma</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Enrico Cattaneo</name>
+  <email>Enrico86@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>9b1384e7723e4910</id>
+  <city>Roma</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Fabio Orlando</name>
+  <email>Fabio.Orlando59@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>0f9afbf9983643ca</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Lucia Parisi</name>
+  <email>lupa@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3302e0f6511b4cdd</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Cristyn Bellini</name>
+  <email>crbe@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>70f7c212d34a4f07</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Domingo Testa</name>
+  <email>Domingo_Testa61@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>5a1aaf34939244ac</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Anastasio De Santis</name>
+  <email>ande@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>dfeb2b2776e04641</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Harry Santoro</name>
+  <email>hasa@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>471b789c53444a28</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Giordano Greco</name>
+  <email>gigr@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c503c6524ff649df</id>
+  <city>Roma</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Tolomeo Parisi</name>
+  <email>Tolomeo.Parisi@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>5d66672f45004d8f</id>
+  <city>Torino</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Eliziario Ricci</name>
+  <email>elri@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>09c0a32da8f54219</id>
+  <city>Roma</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-11-01</subscribedAtDate>
+  <name>Monia Bellini</name>
+  <email>mobe@softix.it</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>d27c4682ce9d42cc</id>
+  <city>Roma</city>
+  <country>Italy</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Siro Palumbo</name>
+  <email>sipa@softix.it</email>
+  <cost>150</cost>
+</benefit>
