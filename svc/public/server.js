@@ -1,8 +1,11 @@
 const express = require('express');
 const app = express();
 const axios = require('axios');
+const path = require('path')
+const exampleYaml = path.join(__dirname, '../../data-imports/benefits-DE.yaml')
 
 import { getProjectWithEmployees } from './api'
+import { FileReader, YAMLReader } from './api/yamlReader'
 // const { getProjectWithEmployees } = require('./api')
 
 // CHAIN OF RESPONSIBILITY // pierwszy który obsłuży - zamyka temat
@@ -35,6 +38,13 @@ app.get('/projects/:id', async (req, res, next) => {
   console.log('tu bylem')
 
   next()
+})
+
+app.get('/benefits', async (req, res, next) => {
+  const fr = new FileReader()
+  const yr = new YAMLReader(fr)
+  const yaml = yr && yr.getContent(exampleYaml)
+  console.log(yaml.length)
 })
 
 app.listen(PORT, () => {
