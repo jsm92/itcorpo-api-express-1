@@ -1,0 +1,1300 @@
+<benefit>
+  <id>72b1ed6a9dbd46a5</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Chloé Nicolas</name>
+  <email>chni@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>17ad6d2c11714702</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Evan Vincent</name>
+  <email>evvi@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>accf1a5517f946b0</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Antoine Martin</name>
+  <email>anma@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>95d6293cc0ff40b7</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Jules Dupuy</name>
+  <email>Jules.Dupuy@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c523eea2b791483f</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Zoe Noel</name>
+  <email>Zoe27@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c3cab98935ef48e9</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-07-01</subscribedAtDate>
+  <name>Ambre Perez</name>
+  <email>Ambre41@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>77c131b86fb044c8</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Clara Le gall</name>
+  <email>Clara.Legall95@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>d5784960be054a54</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Adrien Gautier</name>
+  <email>adga@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6c79d58a07624035</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-07-01</subscribedAtDate>
+  <name>Justine Prevost</name>
+  <email>jupr@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>7e5ca8554698472b</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Quentin Sanchez</name>
+  <email>Quentin29@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>35ec743ce92544af</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Noah Hubert</name>
+  <email>nohu@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6797303098d64d85</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Sarah Colin</name>
+  <email>saco@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>86705be8e88e48be</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Sacha Cousin</name>
+  <email>saco@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b560c733c8914349</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Adam Francois</name>
+  <email>Adam.Francois58@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f0df0b75968944bc</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Mael Schneider</name>
+  <email>Mael_Schneider@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0017b2d3458a485e</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Romane Henry</name>
+  <email>rohe@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>d0b09e44f53e4af9</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Valentin Perez</name>
+  <email>Valentin_Perez79@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>7c49fa4facb7447c</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Nicolas Philippe</name>
+  <email>Nicolas_Philippe32@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>31360d3529a24951</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Mathilde Lefebvre</name>
+  <email>Mathilde_Lefebvre11@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>92850ce26cce4a8c</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Marie Boyer</name>
+  <email>mabo@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>7f92f22097184368</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Mathilde Picard</name>
+  <email>Mathilde.Picard@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>eb0ea1ae8fe04704</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Yanis Dumas</name>
+  <email>Yanis41@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>9ca5a68804914a95</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Alice Marchal</name>
+  <email>Alice_Marchal40@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>9b3c2d9cc9ba4bbd</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Célia Gerard</name>
+  <email>cége@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>aeb2cd8212e34b3c</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Alice Richard</name>
+  <email>Alice.Richard@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>4741fc89e87945f7</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Julie Leroux</name>
+  <email>jule@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>2927766d05664144</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Jeanne Gonzalez</name>
+  <email>Jeanne.Gonzalez@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>076abd64b8a84df9</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Maxime Lacroix</name>
+  <email>mala@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>e3e551d91b084be8</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Louna Carpentier</name>
+  <email>loca@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0d6873bbd1d54fa6</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-11-01</subscribedAtDate>
+  <name>Victor Guerin</name>
+  <email>Victor88@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>9de3363477714322</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Mathis Caron</name>
+  <email>Mathis.Caron@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>6405fa2be4fe4919</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Camille Schneider</name>
+  <email>casc@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b24717f88b024d06</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Lina Picard</name>
+  <email>Lina.Picard@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>642f08f58bc14b1c</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Charlotte Dupuis</name>
+  <email>Charlotte_Dupuis70@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>08e6fba9310c4844</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Justine Muller</name>
+  <email>Justine.Muller@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>22acd93d52694084</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Mael Brun</name>
+  <email>Mael_Brun@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3517da0358e64233</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Adrien Guillaume</name>
+  <email>adgu@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>56032a56fce74697</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Anaïs Lemoine</name>
+  <email>anle@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b577e5f7e5ce487a</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Alice Marchal</name>
+  <email>Alice_Marchal40@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2b9972b35384459d</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Lou Marie</name>
+  <email>Lou_Marie@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f805b0ef9e3c4957</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Lucie Bonnet</name>
+  <email>lubo@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7b08d17d44124b6d</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Mattéo Duval</name>
+  <email>madu@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c7c32bd0d11a42c9</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Elisa Bernard</name>
+  <email>Elisa_Bernard29@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>089d516cc2fb4853</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Alexandre Barbier</name>
+  <email>alba@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6dcf4ff9fde1461f</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Marie Boyer</name>
+  <email>mabo@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>44d3f752e4da4615</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Axel Marie</name>
+  <email>axma@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4f51ceba2b414938</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-08-01</subscribedAtDate>
+  <name>Rayan Andre</name>
+  <email>Rayan.Andre@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>dcf65ecda3d44fdf</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Noah Gauthier</name>
+  <email>noga@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>1cbe41f1d8ab4d50</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Maeva Giraud</name>
+  <email>magi@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b3ae7e1a45f44301</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Mathilde Picard</name>
+  <email>Mathilde.Picard@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>0b056b50f39c4fd4</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Arthur Riviere</name>
+  <email>arri@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>93aa4596d2c44fcd</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Pierre Clement</name>
+  <email>picl@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>262eff22fd14424d</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Noa Lucas</name>
+  <email>Noa89@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f09af770eb8249ff</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Mattéo Fontaine</name>
+  <email>mafo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>79ebcf5ed9824520</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Clara Gaillard</name>
+  <email>clga@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>bc5a6f0659c74b10</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Mohamed Le roux</name>
+  <email>Mohamed_Leroux50@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>31f2a9a544bd4132</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-06-01</subscribedAtDate>
+  <name>Mohamed Le roux</name>
+  <email>Mohamed_Leroux50@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>1ae09a10192e4de1</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Jules Nicolas</name>
+  <email>juni@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6cdc901beced434d</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Eva Clement</name>
+  <email>evcl@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f494e073c0ac4ea9</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Célia Fabre</name>
+  <email>céfa@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3f673c8d8bfc49a5</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-09-01</subscribedAtDate>
+  <name>Raphaël Gaillard</name>
+  <email>Raphal_Gaillard75@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>466a3725142c4a03</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Maëlys Aubert</name>
+  <email>maau@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>16d2401e521e4c8b</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-12-01</subscribedAtDate>
+  <name>Carla Denis</name>
+  <email>Carla_Denis76@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>bf242044274a4e84</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Jeanne Lefevre</name>
+  <email>jele@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>214e3b9f64c54cb8</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Laura Roux</name>
+  <email>laro@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3d02f780fbf548d9</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Mathis Caron</name>
+  <email>Mathis.Caron@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b66b1b91c6864002</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Manon Joly</name>
+  <email>Manon_Joly23@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>5855694ece774978</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Nicolas Philippe</name>
+  <email>Nicolas_Philippe32@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b876812889ad4f64</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Yanis Robin</name>
+  <email>yaro@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>17374ee589894053</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Clémence Dufour</name>
+  <email>Clmence50@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1a848cc3c0a3402b</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Yanis Robin</name>
+  <email>yaro@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>75a241e8a6a64b79</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Anaïs Clement</name>
+  <email>Anas_Clement@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8ece233799c541a3</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Lola Benoit</name>
+  <email>Lola.Benoit@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>dc24f96d28c44b32</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-01-01</subscribedAtDate>
+  <name>Carla Paris</name>
+  <email>capa@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>64cdd8410ce1402e</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Romane Henry</name>
+  <email>rohe@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>05de2d557a1c4788</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Raphaël Garnier</name>
+  <email>raga@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>dbcdf7a40070428b</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Nathan Blanc</name>
+  <email>nabl@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>eac8b13810ed4822</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Laura Nguyen</name>
+  <email>Laura_Nguyen@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0f998c4baf834c5c</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Camille Vincent</name>
+  <email>Camille92@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>e2bedbeca3b248f4</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Raphaël Gaillard</name>
+  <email>Raphal_Gaillard75@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>1214c90449874990</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Noa Philippe</name>
+  <email>noph@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3df3b7ec0af84714</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Lucas Gerard</name>
+  <email>Lucas9@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5fdb71c0683d417b</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Laura Roux</name>
+  <email>laro@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6b35e3b892b4420d</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Chloé Nguyen</name>
+  <email>chng@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>6a4a8b8f2ab2413f</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Mael Schneider</name>
+  <email>Mael_Schneider@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fc97fc7baf6647e5</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-09-01</subscribedAtDate>
+  <name>Anaïs Lemoine</name>
+  <email>anle@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>14a22dc7f8024c90</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Noah Muller</name>
+  <email>Noah_Muller81@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>7c0f392f2d69456d</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Justine Muller</name>
+  <email>Justine.Muller@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3e59172dc827450d</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Quentin Gonzalez</name>
+  <email>qugo@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>7d677f9b3e4e4139</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Raphaël Carpentier</name>
+  <email>raca@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>34de727713984273</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Arthur Jean</name>
+  <email>arje@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b55dfe6f0fc0408a</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Alexandre Barbier</name>
+  <email>alba@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>4fe722cd1d5d446f</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Manon Le gall</name>
+  <email>Manon1@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5f4d80ec3083417b</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Mattéo Fontaine</name>
+  <email>mafo@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f266c99fb8cd49c8</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Océane Guillaume</name>
+  <email>ocgu@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>781fdfdfd8d94748</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Jeanne Benoit</name>
+  <email>Jeanne80@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b46e2b739c3d4529</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Manon Perez</name>
+  <email>Manon_Perez85@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>aafcff6ba7fd4e5b</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Lola Benoit</name>
+  <email>Lola.Benoit@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>57b49e76c0f94f27</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Maeva Prevost</name>
+  <email>Maeva70@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f2cb2e40734e4045</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Zoe Rousseau</name>
+  <email>zoro@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>82275ed08080429c</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Maeva Prevost</name>
+  <email>Maeva70@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>eeb7d4ea69e84db1</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Lou Laine</name>
+  <email>lola@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b724553bbf7b49d0</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Zoe Noel</name>
+  <email>Zoe27@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>50f75e40b3cd497d</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Zoe Meyer</name>
+  <email>zome@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>a499fa568b884da4</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Noa Da silva</name>
+  <email>noda@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>4736d613ac6d4c16</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Ethan Guillot</name>
+  <email>etgu@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>21e7a9ba78d847c3</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Maëlle Paul</name>
+  <email>mapa@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>312faeb9f3b840ba</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Nathan Nicolas</name>
+  <email>Nathan95@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>d6cc2cbdf2de401b</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Eva Le roux</name>
+  <email>evle@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2072558bbd394829</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Yanis Giraud</name>
+  <email>yagi@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a7afa00fa3ab4b7f</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Maeva Giraud</name>
+  <email>magi@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>17ee88273dc84a8d</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Arthur Riviere</name>
+  <email>arri@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0f5995e0604b4515</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-08-01</subscribedAtDate>
+  <name>Nicolas Sanchez</name>
+  <email>Nicolas.Sanchez@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0a6ec5314e3343e6</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Juliette Perez</name>
+  <email>jupe@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>e3b33cdc21954da7</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-05-01</subscribedAtDate>
+  <name>Laura Barbier</name>
+  <email>laba@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d881e2984fc4475d</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Lina Muller</name>
+  <email>limu@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a2f3386391734734</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Célia Gerard</name>
+  <email>cége@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6133ca52c3d84441</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Jeanne Leroux</name>
+  <email>jele@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>bcc227a6f1fb409e</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Louna Vincent</name>
+  <email>Louna.Vincent40@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>faed03027a394df2</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Eva Leclerc</name>
+  <email>Eva_Leclerc@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>9ffb023eae23454c</id>
+  <city>Rennes</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Louna Carpentier</name>
+  <email>loca@softix.fr</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>536d58ec11624228</id>
+  <city>Lille</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Quentin Gonzalez</name>
+  <email>qugo@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2b1551cdb3834b03</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Adam Andre</name>
+  <email>adan@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c24fbf50d2284a71</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Maëlys Schneider</name>
+  <email>Malys.Schneider@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>3ee0a69a34e5494d</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Julie Michel</name>
+  <email>jumi@softix.fr</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c44b7a43877140e0</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Pierre Schmitt</name>
+  <email>Pierre30@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7ad3b13c9ab44d61</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Raphaël Garnier</name>
+  <email>raga@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>435c0463e7fc464e</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Valentin Aubry</name>
+  <email>Valentin5@softix.fr</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>876429143b684297</id>
+  <city>Brest</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Mohamed David</name>
+  <email>Mohamed.David@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f98c9b6751824677</id>
+  <city>Paris</city>
+  <country>France</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Lucas Faure</name>
+  <email>Lucas.Faure@softix.fr</email>
+  <cost>150</cost>
+</benefit>

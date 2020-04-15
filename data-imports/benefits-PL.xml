@@ -1,0 +1,2000 @@
+<benefit>
+  <id>2ed609ae96904f05</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-06-01</subscribedAtDate>
+  <name>Arystarch Jakubiak</name>
+  <email>Arystarch.Jakubiak97@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>099610a7cd034dd3</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Teodora Witczak</name>
+  <email>tewi@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>efdfe9b2bfe34e7f</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Włodzimierz Piłat</name>
+  <email>włpi@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>d6117b026a794c13</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Renata Kowalewski</name>
+  <email>reko@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b7f9f306d8ec40c3</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Natanael Romanowski</name>
+  <email>naro@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>00336900d988491e</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Anna Buczkowski</name>
+  <email>anbu@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2d54a79d903748a2</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Maja Madej</name>
+  <email>mama@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b74eb2050ca94b56</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Rajnold Jezierski</name>
+  <email>Rajnold32@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>456432ee492e4c65</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Gerald Piechota</name>
+  <email>Gerald48@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7bda41e59d114e8d</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Julita Marszałek</name>
+  <email>juma@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>47a85a77b8dc41ce</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Wilhelm Jasiński</name>
+  <email>wija@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2036e4606a29441f</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Gertruda Pytel</name>
+  <email>gepy@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4fe74104afdb447c</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Fabian Nawrocki</name>
+  <email>fana@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>4f1f038959b14018</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Erwin Panek</name>
+  <email>Erwin.Panek76@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1c6be684456a4406</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Julita Marszałek</name>
+  <email>juma@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>aad9bc26f6c94261</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Wanesa Wolny</name>
+  <email>wawo@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0ffd15d802b145d5</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Krystyna Łuczak</name>
+  <email>Krystyna.uczak@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>31dd182af85b4c07</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Rebeka Zieliński</name>
+  <email>Rebeka_Zieliski11@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>3ecd023d898e447f</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Mateusz Mika</name>
+  <email>Mateusz.Mika@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5cee6062aafd4dc2</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Eliasz Jezierski</name>
+  <email>elje@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>42442142603f4d4a</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Ewa Milewski</name>
+  <email>ewmi@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>464c7a95b91d446a</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Łukasz Dębowski</name>
+  <email>ukasz_Dbowski@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b22f569fe801477e</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-04-01</subscribedAtDate>
+  <name>Elwira Cieśla</name>
+  <email>Elwira7@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>819deb41b1be4e8b</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Janusz Misiak</name>
+  <email>jami@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>259ca5b89a044820</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2014-11-01</subscribedAtDate>
+  <name>Józefina Piórkowski</name>
+  <email>Jzefina.Pirkowski43@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>57574c23a8a34a05</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Rebeka Banasiak</name>
+  <email>Rebeka_Banasiak@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>238f4eb5e52242ec</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Hubert Gwóźdź</name>
+  <email>Hubert77@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>da1dfa8b49404d10</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Ferdynanda Grzybowski</name>
+  <email>fegr@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>4f1714b1a6ec4780</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Olaf Markowski</name>
+  <email>olma@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2ee7575ff64d44f6</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Cyryl Musiał</name>
+  <email>cymu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4d802637cffb465d</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Chloe Wolny</name>
+  <email>chwo@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>40744e0e63b64ff0</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Albert Izdebski</name>
+  <email>aliz@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f5aa80eaabaf4af0</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Platon Jurkiewicz</name>
+  <email>Platon.Jurkiewicz@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>adcd55bb32624c23</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Rebeka Banasiak</name>
+  <email>Rebeka_Banasiak@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>bbd66fbd94a642b2</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-05-01</subscribedAtDate>
+  <name>Nazary Madej</name>
+  <email>Nazary_Madej0@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>78b769c144164ddd</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Gwido Noga</name>
+  <email>Gwido.Noga@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>38871cf5d1114c68</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Joanna Matysiak</name>
+  <email>Joanna.Matysiak@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2c3fac33f9dd405c</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Michał Mróz</name>
+  <email>mimr@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0dceaffb6876485a</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Eliasz Cichoń</name>
+  <email>elci@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>92ef9cba6ac44927</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Oleg Skowroński</name>
+  <email>Oleg_Skowroski@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6c46d74660cb453a</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Helena Wysocki</name>
+  <email>Helena_Wysocki4@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c9e7bc8812fe4ff6</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Leon Sowiński</name>
+  <email>Leon.Sowiski@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2dda5810888a40c0</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Karolina Korzeniowski</name>
+  <email>kako@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>75afd6f2f54d4839</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-11-01</subscribedAtDate>
+  <name>Arnold Szewczyk</name>
+  <email>Arnold12@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f5fc43bcabdd404e</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Rufina Kołodziejczyk</name>
+  <email>ruko@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7343ae43dd724737</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Horacy Pasternak</name>
+  <email>Horacy_Pasternak63@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8c8f66e9ae5149b5</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Igor Orzechowski</name>
+  <email>Igor.Orzechowski31@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e42f3c8729584ad8</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Roman Wyszyński</name>
+  <email>Roman_Wyszyski64@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6c970ed325a84281</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Rachela Marszałek</name>
+  <email>rama@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5f108039a6524c84</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Hubert Kuchta</name>
+  <email>Hubert.Kuchta96@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d58f8a70901e4907</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Estera Niedzielski</name>
+  <email>Estera.Niedzielski16@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4c143af33cd84ea3</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Walter Czyż</name>
+  <email>wacz@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b985788b7f364fc5</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Janina Małecki</name>
+  <email>jama@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>303afdf70f4e4637</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Cezary Gałązka</name>
+  <email>cega@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>303a3735a4804c5d</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Laura Wysocki</name>
+  <email>lawy@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>3cc572445c164417</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Gracja Marek</name>
+  <email>Gracja_Marek13@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0e9306d854ac47e0</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Wilhelm Sochacki</name>
+  <email>Wilhelm99@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fe10c5a545b04abc</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Laurencjusz Tokarski</name>
+  <email>Laurencjusz_Tokarski@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>9eaf34ef09b040e8</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Helena Wysocki</name>
+  <email>Helena_Wysocki4@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>9e7513de78164940</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Arkadiusz Kozłowski</name>
+  <email>Arkadiusz.Kozowski@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f46ea00a3b544fe1</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Sybilla Kalinowski</name>
+  <email>syka@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d4cc8b8f150042e8</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Anatol Wróbel</name>
+  <email>Anatol_Wrbel71@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1ed9f72bc6c344d7</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Sylwester Piasecki</name>
+  <email>sypi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5ec866540d2c4f56</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Igor Trzciński</name>
+  <email>igtr@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>62d646b2b2bc4fa5</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Sylwia Szczepański</name>
+  <email>Sylwia49@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>71385f0df837493b</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Reginald Barański</name>
+  <email>reba@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fcd694ee48514328</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-09-01</subscribedAtDate>
+  <name>Daniel Kowalczyk</name>
+  <email>dako@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>3e939e63d9494aaa</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Emil Maj</name>
+  <email>Emil_Maj50@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f0593cd9113f430a</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Beniamin Głąb</name>
+  <email>Beniamin_Gb@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8b32138571df4561</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Aleksandra Furman</name>
+  <email>Aleksandra.Furman23@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fd9ff893e2eb46f9</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Teodor Warchoł</name>
+  <email>tewa@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c30ba97613a54fe2</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Arseniusz Płonka</name>
+  <email>arpł@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>851d638942c24d83</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Pelagia Kulik</name>
+  <email>Pelagia.Kulik@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>acf4b447e2004586</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Amabela Laskowski</name>
+  <email>Amabela72@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b8e7894dfebd4230</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Rachela Marszałek</name>
+  <email>rama@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a3ef722c61c6499d</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Beniamin Bartczak</name>
+  <email>Beniamin.Bartczak11@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>50467ecd4ed14b4b</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-07-01</subscribedAtDate>
+  <name>Roman Karaś</name>
+  <email>Roman94@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>694ecdbc26904105</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Eudoksja Szyszka</name>
+  <email>eusz@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>7ed279191ada47ac</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Katarzyna Knapik</name>
+  <email>kakn@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c0accf4043984f68</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Cyryl Musiał</name>
+  <email>cymu@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a1f70d900a5b4fd9</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Lilianna Jarząbek</name>
+  <email>Lilianna.Jarzbek@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1f5a7f1269d6481a</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Izajasz Matuszak</name>
+  <email>Izajasz.Matuszak27@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>eb0d087ca79040d6</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Daniel Jagodziński</name>
+  <email>daja@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fc75d417114647f0</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Salwator Buczkowski</name>
+  <email>sabu@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>90717da62c8d4a76</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Kornel Mazurek</name>
+  <email>Kornel_Mazurek@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>9b88b51b730e483d</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Leon Kula</name>
+  <email>leku@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d2c3aa5303514584</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2014-11-01</subscribedAtDate>
+  <name>Baldwin Adamczyk</name>
+  <email>baad@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e98b4509b1274cfb</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Krzysztof Piasecki</name>
+  <email>Krzysztof.Piasecki@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>89c509e792ac415f</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Albert Jurkowski</name>
+  <email>alju@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>252214d6cebe41d7</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Witalis Sobczyk</name>
+  <email>Witalis_Sobczyk44@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>17a4e05721534229</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Aleksandra Furman</name>
+  <email>Aleksandra.Furman23@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f3f9471dc09f4d40</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Jakub Grabowski</name>
+  <email>Jakub_Grabowski6@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>5af0835257c842d7</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Cecylia Żurawski</name>
+  <email>ceżu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a5f33a04adfe4c32</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Laura Cholewa</name>
+  <email>lach@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>60898cbce0064584</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Justyna Siwek</name>
+  <email>jusi@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>1031b6e048dc43ca</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Leon Misiak</name>
+  <email>Leon_Misiak44@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>51550ba6121d43b2</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Alfred Maliszewski</name>
+  <email>Alfred14@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>5d1a4e971cf442d0</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Piotr Chojnowski</name>
+  <email>Piotr.Chojnowski98@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>750312accdae4700</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Wincenty Zakrzewski</name>
+  <email>wiza@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>91af2d9e7dac4ad1</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Jozue Żyła</name>
+  <email>joży@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ebfb9d3575f84c62</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Rebeka Pietrzyk</name>
+  <email>repi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e1b4c52533f04798</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Laura Wysocki</name>
+  <email>lawy@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3a12bb1f9d2f4609</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Gerald Bartnik</name>
+  <email>geba@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>479782b10ba241f4</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Joachim Wójtowicz</name>
+  <email>Joachim.Wjtowicz@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>783a5a80b17a45eb</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Roderyk Morawski</name>
+  <email>Roderyk74@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b4ee6c40d12f407a</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Judyta Ostrowski</name>
+  <email>Judyta54@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c674c57756de4a4b</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Patrycja Tomaszewski</name>
+  <email>pato@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c8231ebd55b043aa</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Roland Olejnik</name>
+  <email>Roland7@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0d10d4fee2d84e95</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Leon Misiak</name>
+  <email>Leon_Misiak44@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>406be01b24424b73</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Ambroży Cichocki</name>
+  <email>amci@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>911a05f2f1994524</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-04-01</subscribedAtDate>
+  <name>Wanesa Wolny</name>
+  <email>wawo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>60a36a261e5e4eb1</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Roderyk Wolak</name>
+  <email>rowo@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c9cdd3d11f5f4e2b</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Tobiasz Czaja</name>
+  <email>tocz@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>602181c5d8504849</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Adrian Król</name>
+  <email>Adrian.Krl@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>7b7925998e8e4c80</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Demetriusz Ossowski</name>
+  <email>deos@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4e987f3e92564f18</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Edwin Bogusz</name>
+  <email>edbo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0a5912ad81f649f8</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Michalina Wojtas</name>
+  <email>Michalina_Wojtas48@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3bdd5222e75f40a3</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Patrycy Bagiński</name>
+  <email>paba@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1f4cad71e45d4e35</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-02-01</subscribedAtDate>
+  <name>Arseniusz Nowicki</name>
+  <email>arno@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6d40813d663645f4</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Emilia Filipowicz</name>
+  <email>emfi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a0072a33f8d74594</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Filipa Ciesielski</name>
+  <email>fici@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>74348a3abbdd4cdf</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Jerzy Dubiel</name>
+  <email>jedu@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6f9ffdb7053d40df</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Waleria Makowski</name>
+  <email>Waleria.Makowski@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>46d2e4e79e014762</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Nina Książek</name>
+  <email>Nina57@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ea9b3253ef7c4041</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Dariusz Kozłowski</name>
+  <email>dako@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8f21ec933ebf4319</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Walentyn Kowal</name>
+  <email>wako@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7b3090ba86cd46d1</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Karolina Herman</name>
+  <email>kahe@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>17d7e7aca46148d5</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Edwin Bogusz</name>
+  <email>edbo@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>28aaed53ab784fac</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Hilary Bednarek</name>
+  <email>Hilary_Bednarek45@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a17a4d205b994778</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Gedeon Szymczak</name>
+  <email>gesz@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>af631a2fdc724714</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Rajmund Bednarczyk</name>
+  <email>Rajmund.Bednarczyk93@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a31f229be15746f4</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Baldwin Bober</name>
+  <email>Baldwin58@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2cd5430e87ba454d</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Maurycy Łapiński</name>
+  <email>Maurycy_apiski@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1d61374421014eda</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Feliks Osiński</name>
+  <email>feos@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8c0461a72a054111</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Patrycjusz Aleksandrowicz</name>
+  <email>Patrycjusz39@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c7a0ed34f1724430</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Rajnold Jezierski</name>
+  <email>Rajnold32@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6a5b161770024667</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Ferdynanda Bielawski</name>
+  <email>febi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>54428a8ee72643b9</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Błażej Ruciński</name>
+  <email>Baej36@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>1a06483c68e3422e</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Ireneusz Szczygieł</name>
+  <email>irsz@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>63aa49375cfb40f0</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Bernard Ruciński</name>
+  <email>beru@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f84362f8361b4487</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Brygida Grabowski</name>
+  <email>brgr@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>61df25241ba642f0</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Marceli Nowacki</name>
+  <email>Marceli_Nowacki@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7ef6cee88d4f4f93</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Krystyna Łuczak</name>
+  <email>Krystyna.uczak@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>153e5a770a6d48d3</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Julita Gil</name>
+  <email>jugi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1664b7cbfba04cb8</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Florencja Karwowski</name>
+  <email>Florencja_Karwowski@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>730ef9ec45654bfc</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Kazimierz Słowiński</name>
+  <email>Kazimierz_Sowiski14@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>eb5f7816eb6647d0</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Demetriusz Urbaniak</name>
+  <email>deur@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f1ef521e7649437a</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-08-01</subscribedAtDate>
+  <name>Walentyn Kowal</name>
+  <email>wako@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b61cbfa1c955455c</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Cyryl Kucharski</name>
+  <email>Cyryl.Kucharski87@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>eef7a06ba39e48ce</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Eleonora Urbaniak</name>
+  <email>Eleonora_Urbaniak35@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>833d9a6102ee423a</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Leon Tomczak</name>
+  <email>Leon_Tomczak@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a0ede62e366c452a</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Michał Mróz</name>
+  <email>mimr@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a3478e12e62a4814</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Fryderyk Bednarz</name>
+  <email>frbe@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>40a0902270e34c8e</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Damian Gołębiewski</name>
+  <email>Damian.Gobiewski@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b7c2ea05e5ef4575</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Regina Filipowicz</name>
+  <email>refi@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a070ebb3d9bf479c</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2014-10-01</subscribedAtDate>
+  <name>Ewa Milewski</name>
+  <email>ewmi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>258f9caefd5f4578</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Konstancja Nawrot</name>
+  <email>Konstancja.Nawrot84@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b295b3f7ad664659</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Miron Sikorski</name>
+  <email>misi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2ebc2aa55117418c</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Joanna Skowron</name>
+  <email>josk@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>bfa92d4f80c8424e</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Szczepan Górny</name>
+  <email>Szczepan91@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7125055da2e74192</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Eliasz Cichoń</name>
+  <email>elci@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a3cac20753db4013</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Henryka Serafin</name>
+  <email>hese@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6bc50639264744c5</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Edyta Wieczorek</name>
+  <email>edwi@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2b79dfa8de53471b</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Patrycja Pytel</name>
+  <email>Patrycja20@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a4b2341b3bac4cdc</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Ofelia Książek</name>
+  <email>ofks@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>536242f44b1e4a47</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-02-01</subscribedAtDate>
+  <name>Berta Górecki</name>
+  <email>begó@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>bcf4f45d739c46c8</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Tobiasz Czaja</name>
+  <email>tocz@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fde7069f64d34f69</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Gabriel Olejniczak</name>
+  <email>gaol@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a82f91e21ebf4841</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Bibiana Turek</name>
+  <email>bitu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>92f4c0376f6e430f</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Joachim Szczęsny</name>
+  <email>josz@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ef13e382a45249ac</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Julian Stasiak</name>
+  <email>Julian_Stasiak@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d09e2eae9e7c45a7</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Baldwin Adamczyk</name>
+  <email>baad@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8b2408dedb3249da</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-11-01</subscribedAtDate>
+  <name>Tamara Słowiński</name>
+  <email>Tamara67@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>341083698f24464f</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Filipa Misztal</name>
+  <email>Filipa_Misztal@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a95b668dba024286</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Angela Król</name>
+  <email>ankr@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c2208f8f85d847b2</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Prokop Kołodziejski</name>
+  <email>Prokop.Koodziejski29@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f3c65f854d92423a</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-12-01</subscribedAtDate>
+  <name>Ambroży Cichocki</name>
+  <email>amci@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2942ec0fbf0c4a94</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Elwira Cieśla</name>
+  <email>Elwira7@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8d6aa94884ce4746</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Borys Bujak</name>
+  <email>Borys.Bujak61@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c61d5d8c31a948f9</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Innocenty Małecki</name>
+  <email>Innocenty.Maecki8@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>23a13a6bc0cc46fb</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Adam Czyż</name>
+  <email>adcz@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2e1701059aef4373</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Jan Kaczmarek</name>
+  <email>jaka@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>de0492371c48431b</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Patrycy Zawada</name>
+  <email>paza@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>92fffbbd22814cab</id>
+  <city>Kraków</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Gerald Bartnik</name>
+  <email>geba@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0752adb47ce44f54</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Reginald Barański</name>
+  <email>reba@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ed0cddee9bcd479b</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Edwin Wolny</name>
+  <email>Edwin.Wolny24@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>aae27b5df3744b0f</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Alicja Góral</name>
+  <email>Alicja59@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>623dee83a06e4650</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Jerzy Gąsior</name>
+  <email>jegą@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>74b1d604e613432a</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Filipa Kobus</name>
+  <email>fiko@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e0fa10c222ca4285</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Izabela Jóźwiak</name>
+  <email>Izabela.Jwiak71@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>630664998f8a4f63</id>
+  <city>Gdańsk</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Sylwia Szczepański</name>
+  <email>Sylwia49@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>84783f9a524a4140</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Szymon Kucharski</name>
+  <email>Szymon.Kucharski@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6cd5c83457744973</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Julia Jastrzębski</name>
+  <email>juja@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6dd4eb55da494045</id>
+  <city>Lublin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Edyta Wieczorek</name>
+  <email>edwi@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>360ab17310104e88</id>
+  <city>Szczecin</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-04-01</subscribedAtDate>
+  <name>Waleria Tkaczyk</name>
+  <email>watk@softix.pl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f55791a5febd4772</id>
+  <city>Warszawa</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Tobiasz Mika</name>
+  <email>Tobiasz74@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>00e5911709f84852</id>
+  <city>Radom</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Aleksandra Kołodziejczyk</name>
+  <email>Aleksandra.Koodziejczyk@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1b24d9ba3b294349</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Herbert Pakuła</name>
+  <email>Herbert.Pakua91@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0ef3dc6b29e04ede</id>
+  <city>Wrocław</city>
+  <country>Poland</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-04-01</subscribedAtDate>
+  <name>Renata Kowalewski</name>
+  <email>reko@softix.pl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7f5ccee85629450d</id>
+  <city>Łódź</city>
+  <country>Poland</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Cecylia Jóźwik</name>
+  <email>Cecylia_Jwik@softix.com</email>
+  <cost>250</cost>
+</benefit>

@@ -1,0 +1,2330 @@
+<benefit>
+  <id>5c720f578dcc435f</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Tiago Jaros</name>
+  <email>Tiago24@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>5bc4812358394cb3</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-04-01</subscribedAtDate>
+  <name>Danilo Leiter</name>
+  <email>dale@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>06028f736e3c4e9e</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Lia Porsche</name>
+  <email>Lia_Porsche@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>058946f8f05e4e6d</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Valeria Kustermann</name>
+  <email>vaku@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>75324c77d50a49b7</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Yannick Geyer</name>
+  <email>yage@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5de678667e464010</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Marlo Lewin</name>
+  <email>Marlo.Lewin@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8c21eb3f37614541</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Isa Hentel</name>
+  <email>ishe@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7f477cfeccf2400b</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Stephanie Hübl</name>
+  <email>sthü@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>0fe6c23311604dcb</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Caitlin Gröss</name>
+  <email>Caitlin.Grss11@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>e059d14b5a1c418c</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Jonna Poschmann</name>
+  <email>jopo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8183ddd5079c4db5</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Malena Weight</name>
+  <email>mawe@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>bb65235a99df4a93</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Cem Reuss</name>
+  <email>Cem_Reuss53@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2cb2696282f64720</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Franziska Büker</name>
+  <email>Franziska.Bker54@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>19d2d7925e60446a</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Mohammad Bogenrieder</name>
+  <email>Mohammad47@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>66530f0265ac4142</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Mailin Koster</name>
+  <email>mako@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>7ee9488cba6d4e31</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Martin Kappler</name>
+  <email>Martin.Kappler@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>619a3f58b2144c48</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Alessia Chapron</name>
+  <email>Alessia.Chapron71@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>12034358214644ca</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Lee Schwerdtner</name>
+  <email>Lee12@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>412824416d9a49f2</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Karolina Lutje</name>
+  <email>kalu@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>8bf4d0453399447b</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-06-01</subscribedAtDate>
+  <name>Hugo Kutscherauer</name>
+  <email>huku@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c79fef89e3c84c98</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Jil Wierig</name>
+  <email>jiwi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2be9c5a7f59f49a9</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Elias Kwadwo</name>
+  <email>elkw@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>88b833c313c64aa6</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Collien Lufft</name>
+  <email>colu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6f7079cd68904696</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Loris Gauder</name>
+  <email>loga@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>397f860d1e304dde</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Anni Rosbach</name>
+  <email>Anni_Rosbach@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>d8973a6e0dd94dea</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Falk Kohle</name>
+  <email>Falk38@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>071f57bbae4d4587</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Maxima Knorr</name>
+  <email>Maxima.Knorr73@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>238a9c49e9b440df</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Sabrina Kluge</name>
+  <email>sakl@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>46a26b0f35074dd3</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Tuana Gradzki</name>
+  <email>tugr@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>376448a254b5459b</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2014-11-01</subscribedAtDate>
+  <name>Rafael Busemann</name>
+  <email>rabu@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>93f410bd38a143a0</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Daniela Kral</name>
+  <email>Daniela.Kral29@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>862aaf1571cd4207</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Tom Trampeli</name>
+  <email>totr@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8373d4720bb947d8</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Frederike Riermeier</name>
+  <email>Frederike_Riermeier39@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>187decc906754bed</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Maksim Kempe</name>
+  <email>make@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>43fa8805dca248a8</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Kaja Sladek</name>
+  <email>Kaja_Sladek@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c786596a5c694e6d</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Jonathan Morhelfer</name>
+  <email>Jonathan89@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0a4c1ccb4ded4040</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Lucia Roggatz</name>
+  <email>luro@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>77cf4228e56545b7</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Stephanie Hübl</name>
+  <email>sthü@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>4348fa6b90b140c8</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Jamie Morgenstern</name>
+  <email>jamo@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>e050784d49a74280</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Richard Kufahl</name>
+  <email>Richard0@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>ee1fd31ee0ee4b07</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Ali Lienshöft</name>
+  <email>alli@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b05ac901083942b6</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Kaja Sladek</name>
+  <email>Kaja_Sladek@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>dc822db8deb14ef6</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-02-01</subscribedAtDate>
+  <name>Tiago Jaros</name>
+  <email>Tiago24@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b11589bab1ae4470</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Bela Krodinger</name>
+  <email>bekr@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2e7e6388706b465d</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Niels Goldkühle</name>
+  <email>Niels86@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a1c5f27e27e84e36</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Yannick Geyer</name>
+  <email>yage@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>eb2e67d4a20e4305</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Jane Buder</name>
+  <email>jabu@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>ac8f006832f0427e</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Nila Liebold</name>
+  <email>nili@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>94b043cf30ba4173</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Selma Grossheim</name>
+  <email>segr@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>62adfc23c4bd46fe</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Zoey Trampeli</name>
+  <email>Zoey_Trampeli42@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>786b23dcf13e45e0</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Alia Walton</name>
+  <email>Alia26@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7f6281112d064439</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Isa Hentel</name>
+  <email>ishe@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>fe28d413c6bd4c03</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Emmely Schönherr</name>
+  <email>emsc@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>242a8528c4dd4bfd</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Isabell Tilgner</name>
+  <email>Isabell_Tilgner@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>8f2b2dc9bfab4531</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Richard Kufahl</name>
+  <email>Richard0@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2c4e5c657e034abd</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-04-01</subscribedAtDate>
+  <name>Florentine Ahlke</name>
+  <email>flah@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>999f4642fe184aaf</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Lukas Sihler</name>
+  <email>lusi@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>a7d4f73484524393</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Ylvi Reinhardt</name>
+  <email>Ylvi_Reinhardt90@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b893e02dbf6742c3</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Maxima Hoffman</name>
+  <email>Maxima18@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f1d23ff970e04272</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-08-01</subscribedAtDate>
+  <name>Timon Rücker</name>
+  <email>Timon84@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>82c71e449d7749de</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Claire Knorscheidt</name>
+  <email>clkn@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5c9af3cd9eb14fb4</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Irem Nannen</name>
+  <email>Irem.Nannen@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>468c21ea868948aa</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Nathalie Stief</name>
+  <email>Nathalie.Stief79@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5369554dd307497a</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Dana Schnieder</name>
+  <email>dasc@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>27db848cc4c9405c</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Liah Soboll</name>
+  <email>liso@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>c26b28da0d444eba</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Leticia Gratzky</name>
+  <email>legr@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>146027cc95004edd</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Sabrina Kluge</name>
+  <email>sakl@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>37bac2f6ee024713</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Tom Trampeli</name>
+  <email>totr@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0b8a82df57d04e74</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Joel Tuschmo</name>
+  <email>Joel.Tuschmo34@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>10f9cdf9e30d48ba</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Georg Klimczak</name>
+  <email>Georg_Klimczak89@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c0b1fd816ebf4651</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Yaren Sagonas</name>
+  <email>yasa@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>1b77426392c44599</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Jonah Wallstab</name>
+  <email>jowa@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>4dd0b2fbce7a44ed</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Louise Chapron</name>
+  <email>loch@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>3bf646b1dd1e479e</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Claire Knorscheidt</name>
+  <email>clkn@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>70cc8d53c6934e70</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Johanna Sahner</name>
+  <email>josa@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>dd9b37e6f2f24153</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Ecrin Neumair</name>
+  <email>ecne@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6a90c0e3b95f448f</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Karl Hackelbusch</name>
+  <email>kaha@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f7c1a0fb85604a5e</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Enno Wittich</name>
+  <email>Enno.Wittich@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>0ad7d282a4cc473b</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Damian Illing</name>
+  <email>dail@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>07a9b9bd928b4cef</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Leroy Sachse</name>
+  <email>lesa@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>998c6bd5cb444fdd</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Lindsay Haschke</name>
+  <email>Lindsay_Haschke@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>43cbe532e3514bf0</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Jermaine Esser</name>
+  <email>Jermaine35@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>ad0722013ed945bc</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Liah Soboll</name>
+  <email>liso@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4073a561b54540ce</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2014-12-01</subscribedAtDate>
+  <name>Cem Reuss</name>
+  <email>Cem_Reuss53@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>5ce2c42815f34089</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Laila Peters</name>
+  <email>lape@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>2674cedb57a9480c</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Lilith Dethloff</name>
+  <email>lide@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>9cc146a2eb5e4c0e</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Arno Wöschler</name>
+  <email>Arno_Wschler99@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a7905cf95fde427b</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Selma Grossheim</name>
+  <email>segr@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>f6610023f80d434d</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Frederike Riermeier</name>
+  <email>Frederike_Riermeier39@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>abe5c5b2d67b4ab6</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Anni Rosbach</name>
+  <email>Anni_Rosbach@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>8e06dfd666004f8c</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Lucienne Bode</name>
+  <email>Lucienne.Bode@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>b83ad5d687724d19</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Jolien Grothkopp</name>
+  <email>jogr@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a9ed3e271949428d</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Ahmed Fischer</name>
+  <email>Ahmed.Fischer58@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>2334cb57bdf948f8</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Rayan Greithanner</name>
+  <email>Rayan_Greithanner@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8a0048ec9be4403f</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Niko Simon</name>
+  <email>Niko_Simon45@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ad2d96ce2f8c4241</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Mika Schreck</name>
+  <email>Mika51@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c09b3df5a17b4efa</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Bruno Fincke</name>
+  <email>Bruno_Fincke@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2ff05fc65c424cb0</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Claire Knorscheidt</name>
+  <email>clkn@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>d4697e6208c64354</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Mila Rose</name>
+  <email>Mila_Rose92@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>4eb65471f0f44574</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Kiara Schmalzle</name>
+  <email>kisc@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c8b2c0ca03ea4b6b</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Giada Schwidde</name>
+  <email>gisc@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>c916fc6930164268</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Eliah Maak</name>
+  <email>Eliah_Maak@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a3085561376a4232</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Niko Simon</name>
+  <email>Niko_Simon45@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>a3144d2a5fb44240</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Oke Lenfers</name>
+  <email>Oke_Lenfers37@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>213ccf442fb74cc3</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Ashley Bogenrieder</name>
+  <email>Ashley53@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>70e8b496ff094f83</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Karl Koczulla</name>
+  <email>kako@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c04c08ab49ad402b</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Damian Illing</name>
+  <email>dail@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>a1663f2859b946af</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Piet Dienel</name>
+  <email>Piet38@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>983441ae925443f5</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Eliah Maak</name>
+  <email>Eliah_Maak@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>64df1f294784480f</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Nathalie Stief</name>
+  <email>Nathalie.Stief79@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>52426edefa224ad7</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Leticia Gratzky</name>
+  <email>legr@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>58390d4f7b174720</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Enno Bahl</name>
+  <email>Enno_Bahl20@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>7528ba3c5f374ccc</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-07-01</subscribedAtDate>
+  <name>Maddox Gast</name>
+  <email>maga@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>6f427e232a5648a5</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Lili Pollmächer</name>
+  <email>Lili89@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>009e4900a2f54fc0</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Jerome Moeller</name>
+  <email>jemo@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>090ca668ba704baf</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Kaya Tasche</name>
+  <email>Kaya.Tasche23@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>984dd45135b74080</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Milena Donie</name>
+  <email>mido@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>fe3832a726de40bc</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Mika Farber</name>
+  <email>mifa@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0f330724b19546a4</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Andrew Küsters</name>
+  <email>Andrew_Ksters@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6bd035953c404922</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Giada Schwidde</name>
+  <email>gisc@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>6b6a943ddce948bd</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Richard Kufahl</name>
+  <email>Richard0@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b317300203da4239</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Frieda Riepl</name>
+  <email>frri@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f0fa19d5fdb54fc5</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Finnja Gerbennow</name>
+  <email>Finnja.Gerbennow62@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c461fae70d214272</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Maik Dreissigacker</name>
+  <email>Maik.Dreissigacker@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>3850c3a98e3f4c85</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Francesco Hohenberger</name>
+  <email>Francesco41@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>e8412c54500a4ba5</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Fenja Hoffman</name>
+  <email>feho@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>e65aecff3e144d9e</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Carlo Wassiluk</name>
+  <email>Carlo82@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>99ebbf97967c43c5</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Lili Kahlmeyer</name>
+  <email>lika@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>29224d272d2f44eb</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Irem Niklaus</name>
+  <email>Irem.Niklaus43@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ea9c5c38706f44c7</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Alana Freimuth</name>
+  <email>Alana.Freimuth@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>7d77e53b74cc42b7</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Lili Kahlmeyer</name>
+  <email>lika@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>5fc704ac08cc4d50</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Mattis Weiss</name>
+  <email>mawe@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>80da8609177846b0</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Rocco Hartwig</name>
+  <email>Rocco37@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7cc3fe373bae4a16</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Maxima Hoffman</name>
+  <email>Maxima18@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>10f6c98c06bd4176</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Robin Eggenmueller</name>
+  <email>Robin.Eggenmueller70@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b8b28c151bcd4c08</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Georg Klimczak</name>
+  <email>Georg_Klimczak89@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>105ab6c18dbc4570</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Marit Krippner</name>
+  <email>Marit_Krippner2@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>86f86b08537b48a7</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Ceyda Loska</name>
+  <email>celo@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>8fee91012f4040cc</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Tore Panzig</name>
+  <email>Tore.Panzig@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>d15f88916a744d0b</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Malena Weight</name>
+  <email>mawe@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>5f55a40d12b444b3</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-03-01</subscribedAtDate>
+  <name>Carina Harter</name>
+  <email>caha@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2c18c03cafbb4697</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-03-01</subscribedAtDate>
+  <name>Melike Patzwahl</name>
+  <email>Melike.Patzwahl83@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2c679a1848634be4</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Jil Wierig</name>
+  <email>jiwi@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>a69240567aef463b</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Timothy Ranftl</name>
+  <email>tira@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a46c86338d5e4afe</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Vivienne Engelmann</name>
+  <email>Vivienne31@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>a491bee953c64c14</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Tayler Pitschugin</name>
+  <email>Tayler_Pitschugin@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>993861a661114bf2</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Jens Rau</name>
+  <email>jera@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>63490b84559348eb</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Amanda Astafei</name>
+  <email>Amanda22@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>4a64326eb2a04f80</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Zoey Trampeli</name>
+  <email>Zoey_Trampeli42@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>9111665ef7194698</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Mika Huls</name>
+  <email>Mika_Huls@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>2aafd6732f1e454f</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Ilja Tafelmeier</name>
+  <email>Ilja.Tafelmeier@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fa3af61cb9c44d88</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Davide Knorr</name>
+  <email>Davide.Knorr1@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8f57a77752ed4000</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Arno Wöschler</name>
+  <email>Arno_Wschler99@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>a45184111b69430b</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Kira Krebs</name>
+  <email>Kira.Krebs1@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>f42171aa1a4c4109</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Louise Chapron</name>
+  <email>loch@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1705cad2145b474d</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Adriana Nwachukwu</name>
+  <email>adnw@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>7dc149ebb1494bc5</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Aliya Mewes</name>
+  <email>alme@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>65396ca8fe6e4179</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Henrike Grothkopp</name>
+  <email>hegr@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>e092c1cba1684bb8</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Yvonne Zeyen</name>
+  <email>yvze@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8bca9e0545384808</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Kaan Itt</name>
+  <email>Kaan79@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>a7e5184f23504096</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Chiara Ahlke</name>
+  <email>Chiara_Ahlke93@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1efeb3b90c4849c7</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Finnja Gerbennow</name>
+  <email>Finnja.Gerbennow62@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c472756c28844167</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Ilja Tafelmeier</name>
+  <email>Ilja.Tafelmeier@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>406b89b0a5c440fa</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2015-06-01</subscribedAtDate>
+  <name>Karolina Lutje</name>
+  <email>kalu@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>11358b2808e149a5</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Tomke Többen</name>
+  <email>totö@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>0884a5b22d1e4ae6</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Marit Krippner</name>
+  <email>Marit_Krippner2@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f4527e304b1b4ef2</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Caitlin Gröss</name>
+  <email>Caitlin.Grss11@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5ab35cb7d7d34da2</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Lukas Sihler</name>
+  <email>lusi@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>0df69a9581084a6f</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-03-01</subscribedAtDate>
+  <name>Joey Wieser</name>
+  <email>jowi@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>5b79bf286d984339</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Alessia Chapron</name>
+  <email>Alessia.Chapron71@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2c4ec08570c849ad</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Kaya Tasche</name>
+  <email>Kaya.Tasche23@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>383c3c44600d4482</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Lisa Heberstreit</name>
+  <email>lihe@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>4759ad8e90644601</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-01-01</subscribedAtDate>
+  <name>Joeline Ranz</name>
+  <email>Joeline_Ranz60@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>a8724dbda01b4d3a</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Lia Porsche</name>
+  <email>Lia_Porsche@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f5dd57f01a6a4851</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Alana Freimuth</name>
+  <email>Alana.Freimuth@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>86b61fb4865142f8</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Marius Holl</name>
+  <email>maho@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0d8f9bc3d4af4cb1</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Mehmet Hönig</name>
+  <email>Mehmet_Hnig@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>2dccd42a60c2409e</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Jayson Büchele</name>
+  <email>Jayson.Bchele@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>9d3cff019b3b4fc7</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Taha Harter</name>
+  <email>Taha.Harter97@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>ff59e4a39de34030</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Louise Chapron</name>
+  <email>loch@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>8160082dc62e4fac</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Joeline Ranz</name>
+  <email>Joeline_Ranz60@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7163cf557fc14a63</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Frederike Riermeier</name>
+  <email>Frederike_Riermeier39@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>602fba00bcc84466</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Timothy Ranftl</name>
+  <email>tira@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>48811c3101d045f9</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Domenic Betz</name>
+  <email>dobe@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>5a7cac10145f4dae</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Jamie Morgenstern</name>
+  <email>jamo@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2af163aca9564239</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Maxima Knorr</name>
+  <email>Maxima.Knorr73@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>fef5775d801643d8</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Jermaine Esser</name>
+  <email>Jermaine35@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8dfaebe0df5f4d95</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Mustafa Förster</name>
+  <email>Mustafa_Frster@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3b7db4a1ed9d4350</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Joey Wieser</name>
+  <email>jowi@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>32abc62cb1a541db</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Kaja Sladek</name>
+  <email>Kaja_Sladek@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>719416a55d0a4fcd</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Laila Peters</name>
+  <email>lape@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>abe6ed886bf24d88</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Melike Patzwahl</name>
+  <email>Melike.Patzwahl83@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>ab513842948b4423</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Sammy Caspers</name>
+  <email>saca@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>bbafa68552544b64</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Lee Schwerdtner</name>
+  <email>Lee12@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>917b0cbad7974814</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Mehmet Hönig</name>
+  <email>Mehmet_Hnig@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>90ef0f473e5a4dc5</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Mohammad Bogenrieder</name>
+  <email>Mohammad47@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>de58110d1d4344a2</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Max Wickert</name>
+  <email>mawi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>392765d9ab5a47c4</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Rocco Hartwig</name>
+  <email>Rocco37@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>454ffb67254945e6</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Mattes Piesker</name>
+  <email>mapi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>6dfc17c0c3bb4754</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Piet Dienel</name>
+  <email>Piet38@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>adbef064c9364d9b</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Carina Harter</name>
+  <email>caha@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f0c8e1fba0984c96</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Valeria Kustermann</name>
+  <email>vaku@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>5ed4c5b6f22b403d</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Marit Krippner</name>
+  <email>Marit_Krippner2@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>266a23b6b56c4ad3</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Aurelia Ritz</name>
+  <email>Aurelia_Ritz61@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>1e7b99f940944c10</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Michel Brandenburg</name>
+  <email>Michel72@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>11ebf9bcac2a4987</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Aurora Barr</name>
+  <email>Aurora89@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>286398b93c2945e6</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Etienne Dörner</name>
+  <email>Etienne7@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c8fa63d391494f58</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Chiara Ahlke</name>
+  <email>Chiara_Ahlke93@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>e1eb336aad6b45fd</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Timon Suthe</name>
+  <email>tisu@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>965325f50b854c7f</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Tore Panzig</name>
+  <email>Tore.Panzig@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>087c1e3cb8bf44f4</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Mika Schreck</name>
+  <email>Mika51@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>e446b4052afd43d0</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Tomke Többen</name>
+  <email>totö@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>90ccd274294a4450</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Danilo Leiter</name>
+  <email>dale@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2beb0368660043e6</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Valeria Brandenburg</name>
+  <email>Valeria_Brandenburg83@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>10425719382d4829</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Sahra Honz</name>
+  <email>saho@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>333b458d16c7454a</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Hamza Bedewitz</name>
+  <email>Hamza47@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3cea61b8dbac4ee4</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Janosch Helm</name>
+  <email>Janosch_Helm69@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>34fe77c0b7a948fd</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Max Wickert</name>
+  <email>mawi@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2353fa3065de4ebb</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-01-01</subscribedAtDate>
+  <name>Mehmet Eplinius</name>
+  <email>meep@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>23780291685c45cf</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Bela Krodinger</name>
+  <email>bekr@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>38b124f1067a4e2b</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-02-01</subscribedAtDate>
+  <name>Heidi Fink</name>
+  <email>Heidi.Fink@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>44de3aef20e14488</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2015-06-01</subscribedAtDate>
+  <name>Nila Liebold</name>
+  <email>nili@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>a3ec92977a104378</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Damian Illing</name>
+  <email>dail@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>2d80cc007fbe4146</id>
+  <city>Frankfurt am Main</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Hamza Bedewitz</name>
+  <email>Hamza47@softix.de</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>dccd82bd10294719</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Rayan Greithanner</name>
+  <email>Rayan_Greithanner@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f19ebd2d064d4f89</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Jannes Wiegelmann</name>
+  <email>Jannes34@softix.de</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1ccbea17c0334a3c</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-01-01</subscribedAtDate>
+  <name>Lucienne Bode</name>
+  <email>Lucienne.Bode@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>0e11edff139e47a8</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Till Rosbach</name>
+  <email>Till.Rosbach1@softix.de</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>051ac2803cdb4277</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Danilo Leiter</name>
+  <email>dale@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>226f1f0ad0f8414e</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Domenic Betz</name>
+  <email>dobe@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>50ebbb316cce492e</id>
+  <city>München</city>
+  <country>Germany</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Immanuel Verzi</name>
+  <email>imve@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c934610008124f3c</id>
+  <city>Dresden</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Tuana Gradzki</name>
+  <email>tugr@softix.de</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>712c38783a19440a</id>
+  <city>Darmstadt</city>
+  <country>Germany</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Talia Richards</name>
+  <email>tari@softix.de</email>
+  <cost>250</cost>
+</benefit>

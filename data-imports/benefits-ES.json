@@ -1,0 +1,242 @@
+[
+  {
+    "id": "87dc3c277a51456d",
+    "city": "Valencia",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2017-09-01",
+    "name": "Pedro Gracia",
+    "email": "Pedro58@softix.com",
+    "cost": 100
+  },
+  {
+    "id": "cb271383febe4944",
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Raúl Puente",
+    "email": "rapu@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "12e1ae9638254586",
+    "city": "Valencia",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2018-05-01",
+    "name": "Enrique Esquivel",
+    "email": "Enrique_Esquivel@softix.es",
+    "cost": 100
+  },
+  {
+    "id": "045981f168b5415e",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Salvador Navarro",
+    "email": "sana@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "0a94a028f1d24131",
+    "city": "Granada",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Gregorio Puente",
+    "email": "grpu@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "2b274f45010b4fb9",
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2017-10-01",
+    "name": "María Marín",
+    "email": "Mara_Marn96@softix.com",
+    "cost": 100
+  },
+  {
+    "id": "34aaee056d2c494e",
+    "city": "Granada",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-05-01",
+    "name": "Berta Morales",
+    "email": "bemo@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "b977321196114f4e",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2018-04-01",
+    "name": "Jorge Luis Pelayo",
+    "email": "jope@softix.com",
+    "cost": 100
+  },
+  {
+    "id": "f97317f2f2de466e",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Lucia Montemayor",
+    "email": "lumo@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "8f3894088a504e5f",
+    "city": "Valencia",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Pedro Gracia",
+    "email": "Pedro58@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "439906796a5743f9",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-03-01",
+    "name": "Rosario Casas",
+    "email": "roca@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "a9d2f0a98d2d4f6d",
+    "city": "Granada",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Julia Rendón",
+    "email": "jure@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "fa9ad69a84674623",
+    "city": "Granada",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2014-11-01",
+    "name": "Rocio Saldivar",
+    "email": "rosa@softix.es",
+    "cost": 100
+  },
+  {
+    "id": "810d2a9c52c24e6d",
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-04-01",
+    "name": "Clemente Páez",
+    "email": "Clemente.Pez@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "fda2c8a7a67c4cbc",
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-08-01",
+    "name": "María Marín",
+    "email": "Mara_Marn96@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "d6709af5db8a404e",
+    "city": "Granada",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Rocio Saldivar",
+    "email": "rosa@softix.es",
+    "cost": 200
+  },
+  {
+    "id": "59d623e7939b4fad",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Lucia Montemayor",
+    "email": "lumo@softix.com",
+    "cost": 100
+  },
+  {
+    "id": "1a1dc3864ed34c63",
+    "city": "Granada",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Eloisa Polanco",
+    "email": "Eloisa_Polanco39@softix.com",
+    "cost": 100
+  },
+  {
+    "id": "e474fc02880b4a0e",
+    "city": "Valencia",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2018-01-01",
+    "name": "Elisa Aragón",
+    "email": "elar@softix.es",
+    "cost": 100
+  },
+  {
+    "id": "14ebc8f09c244def",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-08-01",
+    "name": "Horacio Navarrete",
+    "email": "Horacio_Navarrete@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "41132eb4abe04fa4",
+    "city": "Getafe",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Benito Valentín",
+    "email": "Benito_Valentn99@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "ff581a9846974af0",
+    "city": "Valencia",
+    "country": "Spain",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Hugo Pedraza",
+    "email": "Hugo.Pedraza25@softix.es",
+    "cost": 200
+  },
+  {
+    "id": "4ac29b9405d749de",
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Ana María Cintrón",
+    "email": "anci@softix.com",
+    "cost": 100
+  },
+  {
+    "id": "e73db2bf18614e20",
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Cecilia Lira",
+    "email": "celi@softix.es",
+    "cost": 100
+  }
+]

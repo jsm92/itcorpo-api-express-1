@@ -1,0 +1,472 @@
+[
+  {
+    "id": "b60c5dbc5a19445e",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Steve Brakus",
+    "email": "stbr@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "8463c751b0974422",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-12-01",
+    "name": "Terry Kassulke",
+    "email": "teka@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "284e8b6f6f8a47ed",
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Avery Heidenreich",
+    "email": "avhe@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "1d961f69cdf24560",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-11-01",
+    "name": "Thomas Schuster",
+    "email": "Thomas_Schuster12@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "7eff2a872d284b28",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-11-01",
+    "name": "Virgil Swift",
+    "email": "visw@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "3d0f9e19222e4eff",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Minerva Hegmann",
+    "email": "Minerva8@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "7c93db5c9a184d18",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Darrion Farrell",
+    "email": "Darrion99@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "7d0a53c282b140f7",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-07-01",
+    "name": "Ova Flatley",
+    "email": "Ova_Flatley75@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "202490405d8549b3",
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-07-01",
+    "name": "Claudine Lesch",
+    "email": "clle@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "7c27e47b1724499d",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-04-01",
+    "name": "Mozelle Gulgowski",
+    "email": "Mozelle.Gulgowski@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "3d4cdeca20834f59",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Retha Stiedemann",
+    "email": "rest@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "2b1ba6ea0761471e",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-04-01",
+    "name": "Jensen Parker",
+    "email": "jepa@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "71ab99c9135647bd",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-06-01",
+    "name": "Horace Torphy",
+    "email": "Horace.Torphy@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "2e8bb1d3c11944c2",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Noemi Huel",
+    "email": "nohu@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "363028ee271349f8",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-09-01",
+    "name": "Jayde Tromp",
+    "email": "jatr@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "0cba61c752414c22",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-01-01",
+    "name": "Nadia Nader",
+    "email": "nana@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "352e4cc24e7749c9",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Casimir Ferry",
+    "email": "Casimir98@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "5ca24f1fcf4343b4",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-03-01",
+    "name": "Kavon Parker",
+    "email": "kapa@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "d902c45f79d04e12",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-08-01",
+    "name": "Arjun Goyette",
+    "email": "argo@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "b27c2cb6df714164",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Issac Morar",
+    "email": "ismo@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "64a63c2f5e1143fa",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Clinton Ullrich",
+    "email": "clul@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "e56796e92aa341b8",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Brett Parisian",
+    "email": "brpa@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "c095cf34426e4846",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-09-01",
+    "name": "Chauncey Prohaska",
+    "email": "chpr@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "0f8dc59c662f4cd7",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-06-01",
+    "name": "Madie Tromp",
+    "email": "matr@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "2fbff7ca541d4bf8",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-07-01",
+    "name": "Matilda Rodriguez",
+    "email": "Matilda.Rodriguez81@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "ae40af8ca1e846b6",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-07-01",
+    "name": "Coby Feeney",
+    "email": "Coby25@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "f7f3549389614ede",
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-10-01",
+    "name": "Otha Hills",
+    "email": "Otha_Hills@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "ba01ee5640094c83",
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-03-01",
+    "name": "Vincenzo Mann",
+    "email": "Vincenzo77@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "ec705c64e2704fd1",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Wendy Muller",
+    "email": "wemu@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "01810cbe2bad4f02",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-08-01",
+    "name": "Sabryna Ondricka",
+    "email": "Sabryna53@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "890d90227ba54848",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-04-01",
+    "name": "Duncan Towne",
+    "email": "duto@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "a86ec9fef6354fbc",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-04-01",
+    "name": "Thaddeus Gislason",
+    "email": "thgi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "7ff986064ceb4258",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-07-01",
+    "name": "Dejuan Marvin",
+    "email": "Dejuan.Marvin@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "f273816818c4409a",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Amparo Gutkowski",
+    "email": "Amparo_Gutkowski82@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "ca3ca8fd20f34207",
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-02-01",
+    "name": "Telly White",
+    "email": "tewh@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "8bea6075f2fb4e90",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Oliver Paucek",
+    "email": "olpa@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "e0b4bb6e6a0b455e",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-10-01",
+    "name": "Nannie Schuppe",
+    "email": "Nannie45@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "b1932fed7a654434",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Rusty Berge",
+    "email": "rube@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "0a5b7a3c52194756",
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-06-01",
+    "name": "Tomasa Kassulke",
+    "email": "Tomasa.Kassulke@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "1d165132d6fd4115",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Christophe Johnson",
+    "email": "Christophe.Johnson57@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "7ee70184f9dc4c7a",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Lucienne McClure",
+    "email": "lumc@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "514318b0b05c4bf2",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Carmine Stracke",
+    "email": "cast@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "496036c78c6f403d",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-04-01",
+    "name": "Gwendolyn Stroman",
+    "email": "gwst@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "aaa1d8b8b5584d93",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Florencio Denesik",
+    "email": "flde@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "3a93b04600324e81",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-06-01",
+    "name": "Yasmine Steuber",
+    "email": "Yasmine_Steuber@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "18c7fd99d4cb4f6f",
+    "city": "Boston",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-08-01",
+    "name": "Francisca Farrell",
+    "email": "frfa@softix.us",
+    "cost": 200
+  },
+  {
+    "id": "9f9195afa2c449c7",
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Maiya McDermott",
+    "email": "Maiya7@softix.us",
+    "cost": 200
+  }
+]

@@ -1,0 +1,1500 @@
+<benefit>
+  <id>3dd70412e4064634</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Anouk Beek</name>
+  <email>Anouk.Beek92@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c2e6ac1455de4035</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Britt Hoek</name>
+  <email>brho@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>874a6e46546e47ce</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-04-01</subscribedAtDate>
+  <name>Noa Berg</name>
+  <email>Noa18@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>2672adbc7d8f405d</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Tom Brouwer</name>
+  <email>tobr@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>800614c9e34f4e65</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Jesse Kok</name>
+  <email>Jesse_Kok@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b9037f690bec4282</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Kevin Bruin</name>
+  <email>Kevin.Bruin13@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>9de58071ef344558</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Jan Vermeulen</name>
+  <email>jave@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>4df989d24057410c</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-07-01</subscribedAtDate>
+  <name>Tom Brouwer</name>
+  <email>tobr@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8510cfc3c90049b9</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Isa Graaf</name>
+  <email>isgr@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1b82c74b093d42da</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Milan Willems</name>
+  <email>Milan61@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>658f1122906b4f63</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Jan Smits</name>
+  <email>Jan_Smits@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>4c1d784e252c41c9</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Britt Schouten</name>
+  <email>Britt.Schouten15@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>45a61a403934414c</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Sven Koster</name>
+  <email>Sven_Koster@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f1ac76bd25bc4b5e</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Iris Beek</name>
+  <email>irbe@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a5d6eb95edda4c2f</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Sven Brouwer</name>
+  <email>svbr@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>04d13210d4074b3b</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Thijs Boer</name>
+  <email>thbo@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>08179baf0a464664</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Ruben Brink</name>
+  <email>rubr@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3015e536e6774f98</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Eva Kok</name>
+  <email>Eva49@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ea365fd608844f3f</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Ruben Schouten</name>
+  <email>Ruben92@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>66d1e779e9164487</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Bas Vermeulen</name>
+  <email>Bas_Vermeulen9@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>5137f6ba4c5d4704</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Lisa Hendriks</name>
+  <email>Lisa3@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>186f7aed8bcb40f2</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Thijs Mulder</name>
+  <email>thmu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8f7152a30f7e462f</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Lisa Haan</name>
+  <email>Lisa_Haan@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>66cad51b58844ea5</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Jan Smits</name>
+  <email>Jan_Smits@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b3f4a65f56f448f4</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Fleur Vliet</name>
+  <email>Fleur_Vliet@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>fbe861ac0f2b4545</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-07-01</subscribedAtDate>
+  <name>Daan Beek</name>
+  <email>dabe@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>f16a29c145f3478c</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Finn Hoek</name>
+  <email>fiho@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4d1f97f6c0e3418e</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Max Hendriks</name>
+  <email>Max26@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>83fe3c463b9a455a</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Milan Jong</name>
+  <email>Milan.Jong39@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>a7b5f6126c11400a</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Sander Mulder</name>
+  <email>samu@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>c51fea3dbf0a4989</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Julian Broek</name>
+  <email>jubr@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>3fabe3b2ee73420a</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Luuk Ven</name>
+  <email>luve@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>4ee81df00d0b40ed</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Anouk Broek</name>
+  <email>Anouk.Broek@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>fcf2b378a9c843e7</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Sem Meijer</name>
+  <email>seme@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>0f1232139bbd45ba</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Bram Brink</name>
+  <email>Bram19@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>45970f30ac874eea</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-08-01</subscribedAtDate>
+  <name>Sven Koster</name>
+  <email>Sven_Koster@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e0a1966235984244</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Luuk Jong</name>
+  <email>Luuk.Jong@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>58b8789e6e87407f</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Stijn Vries</name>
+  <email>stvr@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>1884c0f206e84c0c</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Luuk Ven</name>
+  <email>luve@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>bd02547db5104c21</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Anna Mulder</name>
+  <email>anmu@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>451a718ea6bb4f8f</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Lotte Ven</name>
+  <email>love@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>15f6f7514a7b4056</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Roos Dijkstra</name>
+  <email>Roos_Dijkstra80@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>d7c9a9f274864888</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-04-01</subscribedAtDate>
+  <name>Bas Stichting</name>
+  <email>Bas6@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>5b1ece9df3e846a1</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Sander Jansen</name>
+  <email>Sander56@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>339c207bc98a400d</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Luuk Hoek</name>
+  <email>Luuk20@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c2be5a3616854e3b</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Jan Vermeulen</name>
+  <email>jave@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>ed95ac04c2434fad</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Jesse Ven</name>
+  <email>jeve@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>de0c381465ed4962</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Lars Vermeulen</name>
+  <email>Lars.Vermeulen34@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2536cbe791eb469a</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Daan Wal</name>
+  <email>Daan26@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>40cdba933c0d4016</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Eva Kok</name>
+  <email>Eva49@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f975773fbb89465d</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Femke Jong</name>
+  <email>Femke.Jong27@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>0614018e1ee543a7</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-01-01</subscribedAtDate>
+  <name>Jayden Bos</name>
+  <email>Jayden89@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ad78c1ea09f24f5b</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Julian Dekker</name>
+  <email>jude@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>881b6060272e436e</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Tom Hoek</name>
+  <email>toho@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>e736d681d6e84a87</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Thomas Groot</name>
+  <email>Thomas.Groot17@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b5c3f183e1b4474d</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Sophie Hoek</name>
+  <email>soho@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>26fbfc55f336450a</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Tom Groot</name>
+  <email>Tom.Groot93@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8336e035c478491c</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-11-01</subscribedAtDate>
+  <name>Bas Stichting</name>
+  <email>Bas6@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5ba717eef5be4a60</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Kevin Bruin</name>
+  <email>Kevin.Bruin13@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>9dfa4dfd38ab4288</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Sven Linden</name>
+  <email>Sven.Linden@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b940a64f21eb470e</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Luuk Hoek</name>
+  <email>Luuk20@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>b320c017014b4fd9</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Max Hendriks</name>
+  <email>Max26@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>9159d82591d64875</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Jan Smits</name>
+  <email>Jan_Smits@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a21ecf98e37b4c77</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Roos Wal</name>
+  <email>Roos_Wal29@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>ed2639c7a7454f01</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Britt Hoek</name>
+  <email>brho@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ecc9e50d83f9429e</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-03-01</subscribedAtDate>
+  <name>Stijn Vries</name>
+  <email>stvr@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>98be0d1d996e4519</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Jesse Ven</name>
+  <email>jeve@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>1eba63de3e394b2d</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Lisa Haan</name>
+  <email>Lisa_Haan@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>54b57906f68f4c79</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Ruben Brink</name>
+  <email>rubr@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>c4fbf88ba14e43fe</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Lieke Jansen</name>
+  <email>lija@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b0579526679e46cf</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Roos Wal</name>
+  <email>Roos.Wal@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>f1c08a6c94a248f8</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Sem Wal</name>
+  <email>Sem61@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>0a5a3fec14304c95</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Stijn Willems</name>
+  <email>stwi@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>79ddd986642b426d</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Bas Jong</name>
+  <email>Bas_Jong@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a46c4f19be854f5a</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Max Hendriks</name>
+  <email>Max26@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d6472dd056124c99</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Roos Wal</name>
+  <email>Roos.Wal@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b46312b09cd64e5e</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Niels Leeuwen</name>
+  <email>Niels.Leeuwen93@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>72d83329638c4630</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Bram Brink</name>
+  <email>Bram19@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5b7f30afd1854736</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Sem Meijer</name>
+  <email>seme@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ef32e8e19b1849c4</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Britt Schouten</name>
+  <email>Britt.Schouten15@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>2d203faf151e4f08</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Milan Jong</name>
+  <email>Milan.Jong39@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d7284477bbfc40a1</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Noa Bruin</name>
+  <email>Noa_Bruin51@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>d1e7bd7ba2a1471d</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Anna Mulder</name>
+  <email>anmu@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>8b56481fc1b24dbc</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2014-10-01</subscribedAtDate>
+  <name>Lotte Maas</name>
+  <email>Lotte_Maas19@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b659db120de6467f</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Luuk Wit</name>
+  <email>Luuk83@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>fb15f0bd4d4449b4</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Sanne Leeuwen</name>
+  <email>sale@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a242240a2d224a51</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Lieke Vliet</name>
+  <email>livl@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>adc3d6a2c86e42d5</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-03-01</subscribedAtDate>
+  <name>Eva Leeuwen</name>
+  <email>Eva.Leeuwen9@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>95281ad3caba4f7b</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Bram Janssen</name>
+  <email>Bram_Janssen99@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>210a2e79e1164266</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Jasper Veen</name>
+  <email>jave@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ee368f62e3da4841</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Thijs Brouwer</name>
+  <email>Thijs37@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b7a9de491f3f475d</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Sem Groot</name>
+  <email>Sem_Groot6@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>2632ab4665b84e56</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Eva Leeuwen</name>
+  <email>Eva.Leeuwen9@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b1022ec9120a48af</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-10-01</subscribedAtDate>
+  <name>Nick Boer</name>
+  <email>nibo@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>47ad9b71ee62462a</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Anna Dekker</name>
+  <email>ande@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3d98c30a3a1e458b</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2015-04-01</subscribedAtDate>
+  <name>Finn Boer</name>
+  <email>Finn_Boer43@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>53d283dfe20e4064</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Jan Linden</name>
+  <email>jali@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>cbb1b4d00cbd4341</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Finn Vries</name>
+  <email>Finn_Vries@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>3bf72a845e6a4607</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Sven Koning</name>
+  <email>Sven45@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>24daf7bf4b6e4c77</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Isa Jansen</name>
+  <email>Isa.Jansen@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>9f606c11f1804943</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-06-01</subscribedAtDate>
+  <name>Finn Beek</name>
+  <email>Finn.Beek88@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ec57de9db4d04cec</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Lisa Hendriks</name>
+  <email>Lisa3@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0526ca122d324388</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Daan Wal</name>
+  <email>Daan26@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>86d54392e4364a3c</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Lucas Hoek</name>
+  <email>Lucas_Hoek@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>7232b79178494acb</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Iris Dam</name>
+  <email>irda@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>966eb9dbda114979</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Stijn Willems</name>
+  <email>stwi@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>05f9a357bc7b466e</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Sophie Klein</name>
+  <email>sokl@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>8bc775f7917f45ce</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Finn Boer</name>
+  <email>Finn_Boer43@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>179d6d7b92184081</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Femke Jong</name>
+  <email>Femke.Jong27@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>525eaff581fe4e7b</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Thomas Hendriks</name>
+  <email>thhe@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>d96005f44a9d4030</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Amber Broek</name>
+  <email>ambr@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>f82e40c7f23341a1</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Lucas Linden</name>
+  <email>luli@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>70c596c3da0c49f2</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Fleur Vliet</name>
+  <email>Fleur_Vliet@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>ac83a6280ffd434c</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Thijs Jacobs</name>
+  <email>thja@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>4198244726ea444e</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Bas Jong</name>
+  <email>Bas_Jong@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>806b7196f45d4da9</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Lucas Linden</name>
+  <email>luli@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>434eb2ace26342ef</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Sven Hendriks</name>
+  <email>Sven_Hendriks9@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>82bb6ec7e67b4626</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Maud Boer</name>
+  <email>Maud16@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>654f8da3d0ec4a17</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2015-10-01</subscribedAtDate>
+  <name>Jasper Veen</name>
+  <email>jave@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>b096e025eeae4a11</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Tom Hoek</name>
+  <email>toho@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>8b75cca898814b60</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Thomas Vos</name>
+  <email>Thomas.Vos80@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c646fb9f3c384a63</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Roos Wal</name>
+  <email>Roos.Wal@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>a04ef46f9da74595</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Maud Bos</name>
+  <email>Maud_Bos50@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2a7132424771487e</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Sven Heuvel</name>
+  <email>svhe@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>29d9afdfaf6745c3</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Noa Bruin</name>
+  <email>Noa_Bruin51@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f48b63d737504fec</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Anouk Beek</name>
+  <email>Anouk.Beek92@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>aa525e8b4ab34acf</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Sophie Hoek</name>
+  <email>soho@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>c4015d53c02c470d</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Thomas Wit</name>
+  <email>thwi@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>5d639fd549e24640</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Sven Brouwer</name>
+  <email>svbr@softix.nl</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>fed19a260db54aa9</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Jayden Bos</name>
+  <email>Jayden89@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>bdb9dc365d304c44</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Noa Berg</name>
+  <email>Noa18@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>a34f03132ab04286</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Femke Willems</name>
+  <email>Femke_Willems36@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>70bffe6f79074ca3</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Jan Linden</name>
+  <email>jali@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>4be7644ffef54e83</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Thomas Graaf</name>
+  <email>thgr@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>aa69dd71a49a4d54</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2015-08-01</subscribedAtDate>
+  <name>Sophie Hoek</name>
+  <email>soho@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>661c6ace92e14cec</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Bram Brink</name>
+  <email>Bram19@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>8207163b08b84bf0</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Sven Heuvel</name>
+  <email>svhe@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>55e1d57eb25b4f9e</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2016-05-01</subscribedAtDate>
+  <name>Sem Groot</name>
+  <email>Sem_Groot6@softix.nl</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>17bcec6278054113</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Ruben Schouten</name>
+  <email>Ruben92@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f4e701594a5145b3</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Anna Dekker</name>
+  <email>ande@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>1b7f44c237964d83</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Sander Jansen</name>
+  <email>Sander56@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d0804dd56aea4a7c</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Sven Heuvel</name>
+  <email>svhe@softix.nl</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1616f07eeaa94cff</id>
+  <city>Den Haag</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Iris Beek</name>
+  <email>irbe@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>99eb97b15fc24439</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Anna Mulder</name>
+  <email>anmu@softix.nl</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>73c805fbe577447e</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Jayden Bos</name>
+  <email>Jayden89@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>5743e975bc3f4562</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-02-01</subscribedAtDate>
+  <name>Finn Vries</name>
+  <email>Finn_Vries@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>9bac8b06ec1e45df</id>
+  <city>Utrecht</city>
+  <country>Netherlands</country>
+  <service>sport-system</service>
+  <subscribedAtDate>2016-09-01</subscribedAtDate>
+  <name>Lotte Ven</name>
+  <email>love@softix.com</email>
+  <cost>150</cost>
+</benefit>
+<benefit>
+  <id>42ace52297ec437d</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Daan Beek</name>
+  <email>dabe@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>20958250b0dd4a47</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Bram Janssen</name>
+  <email>Bram_Janssen99@softix.com</email>
+  <cost>250</cost>
+</benefit>
+<benefit>
+  <id>586892420c6443ec</id>
+  <city>Amsterdam</city>
+  <country>Netherlands</country>
+  <service>lunch-card</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Niels Leeuwen</name>
+  <email>Niels.Leeuwen93@softix.com</email>
+  <cost>250</cost>
+</benefit>

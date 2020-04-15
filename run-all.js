@@ -48,14 +48,14 @@ const processes = [
 processes.forEach(({ name, script, stdoutFn, stderrFn }) => {
 
   // default solution
-  const child = npmRun.spawn(
-    'npm',
-    script.split(' ')
-    // 'run api'.split(' ')
-  )
+  // const child = npmRun.spawn(
+  //   'npm',
+  //   script.split(' ')
+  //   // 'run api'.split(' ')
+  // )
   // windows fallback
   // https://stackoverflow.com/questions/43230346/error-spawn-npm-enoent
-  // const child = npmRun.spawn(/^win/.test(process.platform) ? 'npm.cmd' : 'npm', script.split(' '));
+  const child = npmRun.spawn(/^win/.test(process.platform) ? 'npm.cmd' : 'npm', script.split(' '));
   
   child.stdout.on('data', (data) => {
     console.log(stdoutFn(name, '>', stringifyAndTrim(data)));
