@@ -19,13 +19,13 @@ app.get('/', (req, res, next) => {
   next() // podaj dalej
 })
 
-app.get('/benefits', (req, res, next) => {
-  // 1. fetch data from localhost:3013 (benefit service)
-  axios.get('http://localhost:3013/benefits')
-    .then(response => res.send(response.data))
-  // res.send(benefits)
-  // 2. import data from files
-})
+// app.get('/benefits', (req, res, next) => {
+//   // 1. fetch data from localhost:3013 (benefit service)
+//   axios.get('http://localhost:3013/benefits')
+//     .then(response => res.send(response.data))
+//   // res.send(benefits)
+//   // 2. import data from files
+// })
 
 app.get('/benefits/:id', (req, res, next) => {
 })
@@ -41,10 +41,24 @@ app.get('/projects/:id', async (req, res, next) => {
 })
 
 app.get('/benefits', async (req, res, next) => {
+  let benefits = [];
+  await axios.get('http://localhost:3013/benefits')
+    .then(response => benefits = response.data)
+
   const fr = new FileReader()
   const yr = new YAMLReader(fr)
   const yaml = yr && yr.getContent(exampleYaml)
-  console.log(yaml.length)
+
+  const newBenefits = benefits.map(benefit => {
+    yaml.forEach(item => {
+      if(benefit.id === item.id) {
+        benefit.beneficiary = item;
+      }
+    })
+    return benefit;
+  });
+
+  res.status(200).send(newBenefits)
 })
 
 app.listen(PORT, () => {
