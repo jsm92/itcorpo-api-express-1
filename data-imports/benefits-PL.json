@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "2ed609ae96904f05",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-06-01",
+    "name": "Arystarch Jakubiak",
+    "email": "Arystarch.Jakubiak97@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "099610a7cd034dd3",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-12-01",
+    "name": "Teodora Witczak",
+    "email": "tewi@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "efdfe9b2bfe34e7f",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-06-01",
+    "name": "Włodzimierz Piłat",
+    "email": "włpi@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "d6117b026a794c13",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-01-01",
+    "name": "Renata Kowalewski",
+    "email": "reko@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "b7f9f306d8ec40c3",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Natanael Romanowski",
+    "email": "naro@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "00336900d988491e",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-08-01",
+    "name": "Anna Buczkowski",
+    "email": "anbu@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "2d54a79d903748a2",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-10-01",
+    "name": "Maja Madej",
+    "email": "mama@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "b74eb2050ca94b56",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-08-01",
+    "name": "Rajnold Jezierski",
+    "email": "Rajnold32@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "456432ee492e4c65",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Gerald Piechota",
+    "email": "Gerald48@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "7bda41e59d114e8d",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Julita Marszałek",
+    "email": "juma@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "47a85a77b8dc41ce",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-10-01",
+    "name": "Wilhelm Jasiński",
+    "email": "wija@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "2036e4606a29441f",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Gertruda Pytel",
+    "email": "gepy@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "4fe74104afdb447c",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Fabian Nawrocki",
+    "email": "fana@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "4f1f038959b14018",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Erwin Panek",
+    "email": "Erwin.Panek76@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1c6be684456a4406",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Julita Marszałek",
+    "email": "juma@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "aad9bc26f6c94261",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Wanesa Wolny",
+    "email": "wawo@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "0ffd15d802b145d5",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-03-01",
+    "name": "Krystyna Łuczak",
+    "email": "Krystyna.uczak@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "31dd182af85b4c07",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Rebeka Zieliński",
+    "email": "Rebeka_Zieliski11@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "3ecd023d898e447f",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-06-01",
+    "name": "Mateusz Mika",
+    "email": "Mateusz.Mika@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "5cee6062aafd4dc2",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Eliasz Jezierski",
+    "email": "elje@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "42442142603f4d4a",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Ewa Milewski",
+    "email": "ewmi@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "464c7a95b91d446a",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Łukasz Dębowski",
+    "email": "ukasz_Dbowski@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "b22f569fe801477e",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-04-01",
+    "name": "Elwira Cieśla",
+    "email": "Elwira7@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "819deb41b1be4e8b",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-10-01",
+    "name": "Janusz Misiak",
+    "email": "jami@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "259ca5b89a044820",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2014-11-01",
+    "name": "Józefina Piórkowski",
+    "email": "Jzefina.Pirkowski43@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "57574c23a8a34a05",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Rebeka Banasiak",
+    "email": "Rebeka_Banasiak@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "238f4eb5e52242ec",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Hubert Gwóźdź",
+    "email": "Hubert77@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "da1dfa8b49404d10",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Ferdynanda Grzybowski",
+    "email": "fegr@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "4f1714b1a6ec4780",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-05-01",
+    "name": "Olaf Markowski",
+    "email": "olma@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "2ee7575ff64d44f6",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-02-01",
+    "name": "Cyryl Musiał",
+    "email": "cymu@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "4d802637cffb465d",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-08-01",
+    "name": "Chloe Wolny",
+    "email": "chwo@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "40744e0e63b64ff0",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-02-01",
+    "name": "Albert Izdebski",
+    "email": "aliz@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "f5aa80eaabaf4af0",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Platon Jurkiewicz",
+    "email": "Platon.Jurkiewicz@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "adcd55bb32624c23",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Rebeka Banasiak",
+    "email": "Rebeka_Banasiak@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "bbd66fbd94a642b2",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-05-01",
+    "name": "Nazary Madej",
+    "email": "Nazary_Madej0@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "78b769c144164ddd",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Gwido Noga",
+    "email": "Gwido.Noga@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "38871cf5d1114c68",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Joanna Matysiak",
+    "email": "Joanna.Matysiak@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "2c3fac33f9dd405c",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-05-01",
+    "name": "Michał Mróz",
+    "email": "mimr@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "0dceaffb6876485a",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-10-01",
+    "name": "Eliasz Cichoń",
+    "email": "elci@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "92ef9cba6ac44927",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-03-01",
+    "name": "Oleg Skowroński",
+    "email": "Oleg_Skowroski@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "6c46d74660cb453a",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-05-01",
+    "name": "Helena Wysocki",
+    "email": "Helena_Wysocki4@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "c9e7bc8812fe4ff6",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Leon Sowiński",
+    "email": "Leon.Sowiski@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "2dda5810888a40c0",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-03-01",
+    "name": "Karolina Korzeniowski",
+    "email": "kako@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "75afd6f2f54d4839",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-11-01",
+    "name": "Arnold Szewczyk",
+    "email": "Arnold12@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "f5fc43bcabdd404e",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Rufina Kołodziejczyk",
+    "email": "ruko@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "7343ae43dd724737",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-06-01",
+    "name": "Horacy Pasternak",
+    "email": "Horacy_Pasternak63@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "8c8f66e9ae5149b5",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Igor Orzechowski",
+    "email": "Igor.Orzechowski31@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "e42f3c8729584ad8",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Roman Wyszyński",
+    "email": "Roman_Wyszyski64@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "6c970ed325a84281",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-03-01",
+    "name": "Rachela Marszałek",
+    "email": "rama@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "5f108039a6524c84",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-05-01",
+    "name": "Hubert Kuchta",
+    "email": "Hubert.Kuchta96@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "d58f8a70901e4907",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-06-01",
+    "name": "Estera Niedzielski",
+    "email": "Estera.Niedzielski16@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "4c143af33cd84ea3",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Walter Czyż",
+    "email": "wacz@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "b985788b7f364fc5",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-11-01",
+    "name": "Janina Małecki",
+    "email": "jama@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "303afdf70f4e4637",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Cezary Gałązka",
+    "email": "cega@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "303a3735a4804c5d",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Laura Wysocki",
+    "email": "lawy@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "3cc572445c164417",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Gracja Marek",
+    "email": "Gracja_Marek13@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "0e9306d854ac47e0",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Wilhelm Sochacki",
+    "email": "Wilhelm99@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "fe10c5a545b04abc",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Laurencjusz Tokarski",
+    "email": "Laurencjusz_Tokarski@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "9eaf34ef09b040e8",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Helena Wysocki",
+    "email": "Helena_Wysocki4@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "9e7513de78164940",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Arkadiusz Kozłowski",
+    "email": "Arkadiusz.Kozowski@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "f46ea00a3b544fe1",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Sybilla Kalinowski",
+    "email": "syka@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "d4cc8b8f150042e8",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-05-01",
+    "name": "Anatol Wróbel",
+    "email": "Anatol_Wrbel71@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1ed9f72bc6c344d7",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-02-01",
+    "name": "Sylwester Piasecki",
+    "email": "sypi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "5ec866540d2c4f56",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Igor Trzciński",
+    "email": "igtr@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "62d646b2b2bc4fa5",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Sylwia Szczepański",
+    "email": "Sylwia49@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "71385f0df837493b",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-04-01",
+    "name": "Reginald Barański",
+    "email": "reba@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "fcd694ee48514328",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-09-01",
+    "name": "Daniel Kowalczyk",
+    "email": "dako@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "3e939e63d9494aaa",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-03-01",
+    "name": "Emil Maj",
+    "email": "Emil_Maj50@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "f0593cd9113f430a",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Beniamin Głąb",
+    "email": "Beniamin_Gb@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "8b32138571df4561",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Aleksandra Furman",
+    "email": "Aleksandra.Furman23@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "fd9ff893e2eb46f9",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-04-01",
+    "name": "Teodor Warchoł",
+    "email": "tewa@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "c30ba97613a54fe2",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-06-01",
+    "name": "Arseniusz Płonka",
+    "email": "arpł@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "851d638942c24d83",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-04-01",
+    "name": "Pelagia Kulik",
+    "email": "Pelagia.Kulik@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "acf4b447e2004586",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Amabela Laskowski",
+    "email": "Amabela72@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "b8e7894dfebd4230",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-06-01",
+    "name": "Rachela Marszałek",
+    "email": "rama@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "a3ef722c61c6499d",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-03-01",
+    "name": "Beniamin Bartczak",
+    "email": "Beniamin.Bartczak11@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "50467ecd4ed14b4b",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-07-01",
+    "name": "Roman Karaś",
+    "email": "Roman94@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "694ecdbc26904105",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Eudoksja Szyszka",
+    "email": "eusz@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "7ed279191ada47ac",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Katarzyna Knapik",
+    "email": "kakn@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "c0accf4043984f68",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-01-01",
+    "name": "Cyryl Musiał",
+    "email": "cymu@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "a1f70d900a5b4fd9",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Lilianna Jarząbek",
+    "email": "Lilianna.Jarzbek@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1f5a7f1269d6481a",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Izajasz Matuszak",
+    "email": "Izajasz.Matuszak27@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "eb0d087ca79040d6",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Daniel Jagodziński",
+    "email": "daja@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "fc75d417114647f0",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Salwator Buczkowski",
+    "email": "sabu@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "90717da62c8d4a76",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Kornel Mazurek",
+    "email": "Kornel_Mazurek@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "9b88b51b730e483d",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Leon Kula",
+    "email": "leku@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "d2c3aa5303514584",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2014-11-01",
+    "name": "Baldwin Adamczyk",
+    "email": "baad@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "e98b4509b1274cfb",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Krzysztof Piasecki",
+    "email": "Krzysztof.Piasecki@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "89c509e792ac415f",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Albert Jurkowski",
+    "email": "alju@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "252214d6cebe41d7",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-02-01",
+    "name": "Witalis Sobczyk",
+    "email": "Witalis_Sobczyk44@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "17a4e05721534229",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Aleksandra Furman",
+    "email": "Aleksandra.Furman23@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "f3f9471dc09f4d40",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-06-01",
+    "name": "Jakub Grabowski",
+    "email": "Jakub_Grabowski6@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "5af0835257c842d7",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-02-01",
+    "name": "Cecylia Żurawski",
+    "email": "ceżu@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "a5f33a04adfe4c32",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-10-01",
+    "name": "Laura Cholewa",
+    "email": "lach@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "60898cbce0064584",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Justyna Siwek",
+    "email": "jusi@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "1031b6e048dc43ca",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Leon Misiak",
+    "email": "Leon_Misiak44@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "51550ba6121d43b2",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-03-01",
+    "name": "Alfred Maliszewski",
+    "email": "Alfred14@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "5d1a4e971cf442d0",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-05-01",
+    "name": "Piotr Chojnowski",
+    "email": "Piotr.Chojnowski98@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "750312accdae4700",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-03-01",
+    "name": "Wincenty Zakrzewski",
+    "email": "wiza@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "91af2d9e7dac4ad1",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Jozue Żyła",
+    "email": "joży@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "ebfb9d3575f84c62",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Rebeka Pietrzyk",
+    "email": "repi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "e1b4c52533f04798",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Laura Wysocki",
+    "email": "lawy@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "3a12bb1f9d2f4609",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Gerald Bartnik",
+    "email": "geba@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "479782b10ba241f4",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Joachim Wójtowicz",
+    "email": "Joachim.Wjtowicz@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "783a5a80b17a45eb",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-05-01",
+    "name": "Roderyk Morawski",
+    "email": "Roderyk74@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "b4ee6c40d12f407a",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-06-01",
+    "name": "Judyta Ostrowski",
+    "email": "Judyta54@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "c674c57756de4a4b",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-02-01",
+    "name": "Patrycja Tomaszewski",
+    "email": "pato@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "c8231ebd55b043aa",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Roland Olejnik",
+    "email": "Roland7@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "0d10d4fee2d84e95",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Leon Misiak",
+    "email": "Leon_Misiak44@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "406be01b24424b73",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Ambroży Cichocki",
+    "email": "amci@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "911a05f2f1994524",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-04-01",
+    "name": "Wanesa Wolny",
+    "email": "wawo@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "60a36a261e5e4eb1",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Roderyk Wolak",
+    "email": "rowo@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "c9cdd3d11f5f4e2b",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Tobiasz Czaja",
+    "email": "tocz@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "602181c5d8504849",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Adrian Król",
+    "email": "Adrian.Krl@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "7b7925998e8e4c80",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Demetriusz Ossowski",
+    "email": "deos@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "4e987f3e92564f18",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Edwin Bogusz",
+    "email": "edbo@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "0a5912ad81f649f8",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-04-01",
+    "name": "Michalina Wojtas",
+    "email": "Michalina_Wojtas48@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "3bdd5222e75f40a3",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-01-01",
+    "name": "Patrycy Bagiński",
+    "email": "paba@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1f4cad71e45d4e35",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-02-01",
+    "name": "Arseniusz Nowicki",
+    "email": "arno@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "6d40813d663645f4",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Emilia Filipowicz",
+    "email": "emfi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "a0072a33f8d74594",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Filipa Ciesielski",
+    "email": "fici@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "74348a3abbdd4cdf",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-10-01",
+    "name": "Jerzy Dubiel",
+    "email": "jedu@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "6f9ffdb7053d40df",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-06-01",
+    "name": "Waleria Makowski",
+    "email": "Waleria.Makowski@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "46d2e4e79e014762",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Nina Książek",
+    "email": "Nina57@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "ea9b3253ef7c4041",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Dariusz Kozłowski",
+    "email": "dako@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "8f21ec933ebf4319",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-04-01",
+    "name": "Walentyn Kowal",
+    "email": "wako@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "7b3090ba86cd46d1",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Karolina Herman",
+    "email": "kahe@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "17d7e7aca46148d5",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Edwin Bogusz",
+    "email": "edbo@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "28aaed53ab784fac",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Hilary Bednarek",
+    "email": "Hilary_Bednarek45@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "a17a4d205b994778",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-10-01",
+    "name": "Gedeon Szymczak",
+    "email": "gesz@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "af631a2fdc724714",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-10-01",
+    "name": "Rajmund Bednarczyk",
+    "email": "Rajmund.Bednarczyk93@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "a31f229be15746f4",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Baldwin Bober",
+    "email": "Baldwin58@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "2cd5430e87ba454d",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-03-01",
+    "name": "Maurycy Łapiński",
+    "email": "Maurycy_apiski@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1d61374421014eda",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Feliks Osiński",
+    "email": "feos@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "8c0461a72a054111",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Patrycjusz Aleksandrowicz",
+    "email": "Patrycjusz39@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "c7a0ed34f1724430",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-05-01",
+    "name": "Rajnold Jezierski",
+    "email": "Rajnold32@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "6a5b161770024667",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-11-01",
+    "name": "Ferdynanda Bielawski",
+    "email": "febi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "54428a8ee72643b9",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Błażej Ruciński",
+    "email": "Baej36@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "1a06483c68e3422e",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Ireneusz Szczygieł",
+    "email": "irsz@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "63aa49375cfb40f0",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-05-01",
+    "name": "Bernard Ruciński",
+    "email": "beru@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "f84362f8361b4487",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Brygida Grabowski",
+    "email": "brgr@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "61df25241ba642f0",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-03-01",
+    "name": "Marceli Nowacki",
+    "email": "Marceli_Nowacki@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "7ef6cee88d4f4f93",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-02-01",
+    "name": "Krystyna Łuczak",
+    "email": "Krystyna.uczak@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "153e5a770a6d48d3",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Julita Gil",
+    "email": "jugi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1664b7cbfba04cb8",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Florencja Karwowski",
+    "email": "Florencja_Karwowski@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "730ef9ec45654bfc",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Kazimierz Słowiński",
+    "email": "Kazimierz_Sowiski14@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "eb5f7816eb6647d0",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Demetriusz Urbaniak",
+    "email": "deur@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "f1ef521e7649437a",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-08-01",
+    "name": "Walentyn Kowal",
+    "email": "wako@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "b61cbfa1c955455c",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Cyryl Kucharski",
+    "email": "Cyryl.Kucharski87@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "eef7a06ba39e48ce",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-07-01",
+    "name": "Eleonora Urbaniak",
+    "email": "Eleonora_Urbaniak35@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "833d9a6102ee423a",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-09-01",
+    "name": "Leon Tomczak",
+    "email": "Leon_Tomczak@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "a0ede62e366c452a",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Michał Mróz",
+    "email": "mimr@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "a3478e12e62a4814",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-06-01",
+    "name": "Fryderyk Bednarz",
+    "email": "frbe@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "40a0902270e34c8e",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-04-01",
+    "name": "Damian Gołębiewski",
+    "email": "Damian.Gobiewski@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "b7c2ea05e5ef4575",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2016-12-01",
+    "name": "Regina Filipowicz",
+    "email": "refi@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "a070ebb3d9bf479c",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2014-10-01",
+    "name": "Ewa Milewski",
+    "email": "ewmi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "258f9caefd5f4578",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Konstancja Nawrot",
+    "email": "Konstancja.Nawrot84@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "b295b3f7ad664659",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-09-01",
+    "name": "Miron Sikorski",
+    "email": "misi@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "2ebc2aa55117418c",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-02-01",
+    "name": "Joanna Skowron",
+    "email": "josk@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "bfa92d4f80c8424e",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-09-01",
+    "name": "Szczepan Górny",
+    "email": "Szczepan91@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "7125055da2e74192",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-06-01",
+    "name": "Eliasz Cichoń",
+    "email": "elci@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "a3cac20753db4013",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Henryka Serafin",
+    "email": "hese@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "6bc50639264744c5",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Edyta Wieczorek",
+    "email": "edwi@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "2b79dfa8de53471b",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Patrycja Pytel",
+    "email": "Patrycja20@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "a4b2341b3bac4cdc",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Ofelia Książek",
+    "email": "ofks@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "536242f44b1e4a47",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-02-01",
+    "name": "Berta Górecki",
+    "email": "begó@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "bcf4f45d739c46c8",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-01-01",
+    "name": "Tobiasz Czaja",
+    "email": "tocz@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "fde7069f64d34f69",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-11-01",
+    "name": "Gabriel Olejniczak",
+    "email": "gaol@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "a82f91e21ebf4841",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-08-01",
+    "name": "Bibiana Turek",
+    "email": "bitu@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "92f4c0376f6e430f",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Joachim Szczęsny",
+    "email": "josz@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "ef13e382a45249ac",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-08-01",
+    "name": "Julian Stasiak",
+    "email": "Julian_Stasiak@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "d09e2eae9e7c45a7",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Baldwin Adamczyk",
+    "email": "baad@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "8b2408dedb3249da",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2015-11-01",
+    "name": "Tamara Słowiński",
+    "email": "Tamara67@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "341083698f24464f",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-12-01",
+    "name": "Filipa Misztal",
+    "email": "Filipa_Misztal@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "a95b668dba024286",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Angela Król",
+    "email": "ankr@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "c2208f8f85d847b2",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-03-01",
+    "name": "Prokop Kołodziejski",
+    "email": "Prokop.Koodziejski29@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "f3c65f854d92423a",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2015-12-01",
+    "name": "Ambroży Cichocki",
+    "email": "amci@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "2942ec0fbf0c4a94",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-10-01",
+    "name": "Elwira Cieśla",
+    "email": "Elwira7@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "8d6aa94884ce4746",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-01-01",
+    "name": "Borys Bujak",
+    "email": "Borys.Bujak61@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "c61d5d8c31a948f9",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Innocenty Małecki",
+    "email": "Innocenty.Maecki8@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "23a13a6bc0cc46fb",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-07-01",
+    "name": "Adam Czyż",
+    "email": "adcz@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "2e1701059aef4373",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-03-01",
+    "name": "Jan Kaczmarek",
+    "email": "jaka@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "de0492371c48431b",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Patrycy Zawada",
+    "email": "paza@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "92fffbbd22814cab",
+    "city": "Kraków",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-03-01",
+    "name": "Gerald Bartnik",
+    "email": "geba@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "0752adb47ce44f54",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-07-01",
+    "name": "Reginald Barański",
+    "email": "reba@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "ed0cddee9bcd479b",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Edwin Wolny",
+    "email": "Edwin.Wolny24@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "aae27b5df3744b0f",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-12-01",
+    "name": "Alicja Góral",
+    "email": "Alicja59@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "623dee83a06e4650",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-08-01",
+    "name": "Jerzy Gąsior",
+    "email": "jegą@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "74b1d604e613432a",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-05-01",
+    "name": "Filipa Kobus",
+    "email": "fiko@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "e0fa10c222ca4285",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2019-07-01",
+    "name": "Izabela Jóźwiak",
+    "email": "Izabela.Jwiak71@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "630664998f8a4f63",
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-05-01",
+    "name": "Sylwia Szczepański",
+    "email": "Sylwia49@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "84783f9a524a4140",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-04-01",
+    "name": "Szymon Kucharski",
+    "email": "Szymon.Kucharski@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "6cd5c83457744973",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-01-01",
+    "name": "Julia Jastrzębski",
+    "email": "juja@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "6dd4eb55da494045",
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-12-01",
+    "name": "Edyta Wieczorek",
+    "email": "edwi@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "360ab17310104e88",
+    "city": "Szczecin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2016-04-01",
+    "name": "Waleria Tkaczyk",
+    "email": "watk@softix.pl",
+    "cost": 250
+  },
+  {
+    "id": "f55791a5febd4772",
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2018-04-01",
+    "name": "Tobiasz Mika",
+    "email": "Tobiasz74@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "00e5911709f84852",
+    "city": "Radom",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2019-05-01",
+    "name": "Aleksandra Kołodziejczyk",
+    "email": "Aleksandra.Koodziejczyk@softix.com",
+    "cost": 200
+  },
+  {
+    "id": "1b24d9ba3b294349",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2017-11-01",
+    "name": "Herbert Pakuła",
+    "email": "Herbert.Pakua91@softix.com",
+    "cost": 250
+  },
+  {
+    "id": "0ef3dc6b29e04ede",
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "subscribedAtDate": "2017-04-01",
+    "name": "Renata Kowalewski",
+    "email": "reko@softix.pl",
+    "cost": 200
+  },
+  {
+    "id": "7f5ccee85629450d",
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "subscribedAtDate": "2018-09-01",
+    "name": "Cecylia Jóźwik",
+    "email": "Cecylia_Jwik@softix.com",
+    "cost": 250
+  }
+]

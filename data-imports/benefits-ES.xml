@@ -1,0 +1,240 @@
+<benefit>
+  <id>87dc3c277a51456d</id>
+  <city>Valencia</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Pedro Gracia</name>
+  <email>Pedro58@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>cb271383febe4944</id>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Raúl Puente</name>
+  <email>rapu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>12e1ae9638254586</id>
+  <city>Valencia</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-05-01</subscribedAtDate>
+  <name>Enrique Esquivel</name>
+  <email>Enrique_Esquivel@softix.es</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>045981f168b5415e</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Salvador Navarro</name>
+  <email>sana@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0a94a028f1d24131</id>
+  <city>Granada</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Gregorio Puente</name>
+  <email>grpu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2b274f45010b4fb9</id>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>María Marín</name>
+  <email>Mara_Marn96@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>34aaee056d2c494e</id>
+  <city>Granada</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-05-01</subscribedAtDate>
+  <name>Berta Morales</name>
+  <email>bemo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b977321196114f4e</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Jorge Luis Pelayo</name>
+  <email>jope@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>f97317f2f2de466e</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Lucia Montemayor</name>
+  <email>lumo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8f3894088a504e5f</id>
+  <city>Valencia</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Pedro Gracia</name>
+  <email>Pedro58@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>439906796a5743f9</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-03-01</subscribedAtDate>
+  <name>Rosario Casas</name>
+  <email>roca@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a9d2f0a98d2d4f6d</id>
+  <city>Granada</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-03-01</subscribedAtDate>
+  <name>Julia Rendón</name>
+  <email>jure@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fa9ad69a84674623</id>
+  <city>Granada</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2014-11-01</subscribedAtDate>
+  <name>Rocio Saldivar</name>
+  <email>rosa@softix.es</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>810d2a9c52c24e6d</id>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Clemente Páez</name>
+  <email>Clemente.Pez@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>fda2c8a7a67c4cbc</id>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>María Marín</name>
+  <email>Mara_Marn96@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d6709af5db8a404e</id>
+  <city>Granada</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Rocio Saldivar</name>
+  <email>rosa@softix.es</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>59d623e7939b4fad</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Lucia Montemayor</name>
+  <email>lumo@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>1a1dc3864ed34c63</id>
+  <city>Granada</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Eloisa Polanco</name>
+  <email>Eloisa_Polanco39@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>e474fc02880b4a0e</id>
+  <city>Valencia</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Elisa Aragón</name>
+  <email>elar@softix.es</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>14ebc8f09c244def</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Horacio Navarrete</name>
+  <email>Horacio_Navarrete@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>41132eb4abe04fa4</id>
+  <city>Getafe</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Benito Valentín</name>
+  <email>Benito_Valentn99@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ff581a9846974af0</id>
+  <city>Valencia</city>
+  <country>Spain</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-08-01</subscribedAtDate>
+  <name>Hugo Pedraza</name>
+  <email>Hugo.Pedraza25@softix.es</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>4ac29b9405d749de</id>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Ana María Cintrón</name>
+  <email>anci@softix.com</email>
+  <cost>100</cost>
+</benefit>
+<benefit>
+  <id>e73db2bf18614e20</id>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <service>cafeteria.io</service>
+  <subscribedAtDate>2018-10-01</subscribedAtDate>
+  <name>Cecilia Lira</name>
+  <email>celi@softix.es</email>
+  <cost>100</cost>
+</benefit>

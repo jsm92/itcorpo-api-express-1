@@ -1,0 +1,470 @@
+<benefit>
+  <id>b60c5dbc5a19445e</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-02-01</subscribedAtDate>
+  <name>Steve Brakus</name>
+  <email>stbr@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8463c751b0974422</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-12-01</subscribedAtDate>
+  <name>Terry Kassulke</name>
+  <email>teka@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>284e8b6f6f8a47ed</id>
+  <city>Milpitas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Avery Heidenreich</name>
+  <email>avhe@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1d961f69cdf24560</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-11-01</subscribedAtDate>
+  <name>Thomas Schuster</name>
+  <email>Thomas_Schuster12@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7eff2a872d284b28</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-11-01</subscribedAtDate>
+  <name>Virgil Swift</name>
+  <email>visw@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3d0f9e19222e4eff</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-09-01</subscribedAtDate>
+  <name>Minerva Hegmann</name>
+  <email>Minerva8@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7c93db5c9a184d18</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-12-01</subscribedAtDate>
+  <name>Darrion Farrell</name>
+  <email>Darrion99@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7d0a53c282b140f7</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Ova Flatley</name>
+  <email>Ova_Flatley75@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>202490405d8549b3</id>
+  <city>Milpitas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Claudine Lesch</name>
+  <email>clle@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7c27e47b1724499d</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Mozelle Gulgowski</name>
+  <email>Mozelle.Gulgowski@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3d4cdeca20834f59</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Retha Stiedemann</name>
+  <email>rest@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2b1ba6ea0761471e</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-04-01</subscribedAtDate>
+  <name>Jensen Parker</name>
+  <email>jepa@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>71ab99c9135647bd</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-06-01</subscribedAtDate>
+  <name>Horace Torphy</name>
+  <email>Horace.Torphy@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2e8bb1d3c11944c2</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-01-01</subscribedAtDate>
+  <name>Noemi Huel</name>
+  <email>nohu@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>363028ee271349f8</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Jayde Tromp</name>
+  <email>jatr@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0cba61c752414c22</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-01-01</subscribedAtDate>
+  <name>Nadia Nader</name>
+  <email>nana@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>352e4cc24e7749c9</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Casimir Ferry</name>
+  <email>Casimir98@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>5ca24f1fcf4343b4</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-03-01</subscribedAtDate>
+  <name>Kavon Parker</name>
+  <email>kapa@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>d902c45f79d04e12</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-08-01</subscribedAtDate>
+  <name>Arjun Goyette</name>
+  <email>argo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b27c2cb6df714164</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Issac Morar</name>
+  <email>ismo@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>64a63c2f5e1143fa</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Clinton Ullrich</name>
+  <email>clul@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e56796e92aa341b8</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Brett Parisian</name>
+  <email>brpa@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>c095cf34426e4846</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-09-01</subscribedAtDate>
+  <name>Chauncey Prohaska</name>
+  <email>chpr@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0f8dc59c662f4cd7</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Madie Tromp</name>
+  <email>matr@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>2fbff7ca541d4bf8</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-07-01</subscribedAtDate>
+  <name>Matilda Rodriguez</name>
+  <email>Matilda.Rodriguez81@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ae40af8ca1e846b6</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2016-07-01</subscribedAtDate>
+  <name>Coby Feeney</name>
+  <email>Coby25@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f7f3549389614ede</id>
+  <city>San Francisco</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Otha Hills</name>
+  <email>Otha_Hills@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ba01ee5640094c83</id>
+  <city>Milpitas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-03-01</subscribedAtDate>
+  <name>Vincenzo Mann</name>
+  <email>Vincenzo77@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ec705c64e2704fd1</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Wendy Muller</name>
+  <email>wemu@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>01810cbe2bad4f02</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2015-08-01</subscribedAtDate>
+  <name>Sabryna Ondricka</name>
+  <email>Sabryna53@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>890d90227ba54848</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Duncan Towne</name>
+  <email>duto@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>a86ec9fef6354fbc</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-04-01</subscribedAtDate>
+  <name>Thaddeus Gislason</name>
+  <email>thgi@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7ff986064ceb4258</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-07-01</subscribedAtDate>
+  <name>Dejuan Marvin</name>
+  <email>Dejuan.Marvin@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>f273816818c4409a</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-09-01</subscribedAtDate>
+  <name>Amparo Gutkowski</name>
+  <email>Amparo_Gutkowski82@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>ca3ca8fd20f34207</id>
+  <city>Milpitas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-02-01</subscribedAtDate>
+  <name>Telly White</name>
+  <email>tewh@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>8bea6075f2fb4e90</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-11-01</subscribedAtDate>
+  <name>Oliver Paucek</name>
+  <email>olpa@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>e0b4bb6e6a0b455e</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-10-01</subscribedAtDate>
+  <name>Nannie Schuppe</name>
+  <email>Nannie45@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>b1932fed7a654434</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-12-01</subscribedAtDate>
+  <name>Rusty Berge</name>
+  <email>rube@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>0a5b7a3c52194756</id>
+  <city>Milpitas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2017-06-01</subscribedAtDate>
+  <name>Tomasa Kassulke</name>
+  <email>Tomasa.Kassulke@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>1d165132d6fd4115</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Christophe Johnson</name>
+  <email>Christophe.Johnson57@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>7ee70184f9dc4c7a</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-05-01</subscribedAtDate>
+  <name>Lucienne McClure</name>
+  <email>lumc@softix.com</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>514318b0b05c4bf2</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-07-01</subscribedAtDate>
+  <name>Carmine Stracke</name>
+  <email>cast@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>496036c78c6f403d</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-04-01</subscribedAtDate>
+  <name>Gwendolyn Stroman</name>
+  <email>gwst@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>aaa1d8b8b5584d93</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Florencio Denesik</name>
+  <email>flde@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>3a93b04600324e81</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2019-06-01</subscribedAtDate>
+  <name>Yasmine Steuber</name>
+  <email>Yasmine_Steuber@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>18c7fd99d4cb4f6f</id>
+  <city>Boston</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-08-01</subscribedAtDate>
+  <name>Francisca Farrell</name>
+  <email>frfa@softix.us</email>
+  <cost>200</cost>
+</benefit>
+<benefit>
+  <id>9f9195afa2c449c7</id>
+  <city>Dallas</city>
+  <country>United States of America</country>
+  <service>healthcare</service>
+  <subscribedAtDate>2018-11-01</subscribedAtDate>
+  <name>Maiya McDermott</name>
+  <email>Maiya7@softix.us</email>
+  <cost>200</cost>
+</benefit>
