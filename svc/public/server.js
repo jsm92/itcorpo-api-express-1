@@ -20,6 +20,7 @@ app.get('/projects/:id', async (req, res, next) => {
   console.log(`received request with projectId:${projectId}`)
   const project = await getProjectWithEmployees(projectId)
   res.status(200).send(project)
+  console.log('tu bylem')
 
   next()
 })
